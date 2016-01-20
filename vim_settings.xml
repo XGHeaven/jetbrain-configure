@@ -119,8 +119,8 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/redhome/wechat-backend/lib/mail.js" timestamp="1452822571290">
-        <mark key="[" line="114" column="37" />
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/lib/mail.js" timestamp="1453299793023">
+        <mark key="[" line="119" column="32" />
       </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/test/mocha.opts" timestamp="1452502542434">
         <mark key="[" line="0" column="0" />
@@ -208,9 +208,9 @@
         <mark key="." line="6" column="20" />
         <mark key="^" line="6" column="20" />
       </file>
-      <file name="$USER_HOME$/Project/redhome/wechat-backend/lib/wxApi.js" timestamp="1452822553730">
-        <mark key="[" line="95" column="23" />
-        <mark key="^" line="127" column="34" />
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/lib/wxApi.js" timestamp="1453299356869">
+        <mark key="[" line="92" column="5" />
+        <mark key="^" line="133" column="34" />
       </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/api/common.js" timestamp="1450894058772">
         <mark key="[" line="5" column="3" />
