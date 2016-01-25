@@ -243,10 +243,11 @@
         <mark key="]" line="48" column="28" />
         <mark key="." line="124" column="33" />
       </file>
-      <file name="$USER_HOME$/Learning/TypeScript/marry.ts" timestamp="1453690707031">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Learning/TypeScript/marry.ts" timestamp="1453692027154">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/src/mongoose.js" timestamp="1452779574838">
         <mark key="[" line="10" column="0" />
@@ -266,6 +267,11 @@
       </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/lib/leancloud.js" timestamp="1450899267920">
         <mark key="[" line="61" column="23" />
+      </file>
+      <file name="$USER_HOME$/Learning/TypeScript/simpleMarry.js" timestamp="1453691710633">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/config/remote.js" timestamp="1448170313047">
         <mark key="[" line="18" column="25" />
@@ -455,34 +461,34 @@
         <text encoding="base64">ICAgICAgICBhZGRyZXNzOiAiTU9OR09EQl9QT1JUXzI3MDE3X1RDUF9BRERSIiwKICAgICAgICBwb3J0OiAiTU9OR09EQl9QT1JUXzI3MDE3X1RDUF9QT1JUIiwKICAgICAgICB1c2VyOiAiTU9OR09EQl9VU0VSTkFNRSIsCiAgICAgICAgcHdkOiAiTU9OR09EQl9QQVNTV09SRCIsCiAgICAgICAgZGI6ICJNT05HT0RCX0lOU1RBTkNFX05BTUUiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhciBuYW1lOiBzdHJpbmcsCiAgICB2YXIgYWdlOiBzdHJpbmcsCiAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhciBuYW1lOiBzdHJpbmcsCiAgICB2YXIgYWdlOiBzdHJpbmcsCiAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgeGdoZWF2ZW4gb24gMS8yNS8xNi4KICovCg==</text>
+        <text encoding="base64">cHJpbnRsCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgeGdoZWF2ZW4gb24gMS8yNS8xNi4KICovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgeGdoZWF2ZW4gb24gMS8yNS8xNi4KICovCg==</text>
+        <text encoding="base64">ICAgIHZhciBuYW1lOiBzdHJpbmcsCiAgICB2YXIgYWdlOiBzdHJpbmcsCiAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyAxOwo=</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgeGdoZWF2ZW4gb24gMS8yNS8xNi4KICovCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygxKTsK</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgeGdoZWF2ZW4gb24gMS8yNS8xNi4KICovCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKDEpOwo=</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgeGdoZWF2ZW4gb24gMS8yNS8xNi4KICovCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsaXN0ID0gW3sKICAgICAgICAgICAgICAgICAgICAgICAgaWQ6ICcxMjMnLAogICAgICAgICAgICAgICAgICAgICAgICBzY29yZTogMTAwLAogICAgICAgICAgICAgICAgICAgICAgICBqZDogNS4wLAogICAgICAgICAgICAgICAgICAgICAgICBuYW1lOiAncmFuZG9tIGNsYXNzJwogICAgICAgICAgICAgICAgICAgIH1dOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyAxOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygxKTsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
