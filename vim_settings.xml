@@ -259,6 +259,9 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/.jscs.json" timestamp="1453824824482">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/test/module.text.default.js" timestamp="1452605468550">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="6" column="12" />
