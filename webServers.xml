@@ -1,0 +1,13 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1a5d5947-9124-4361-ab2b-4fa422979df3" name="api.redhome.cc" url="http://192.168.100.153">
+        <fileTransfer host="192.168.100.153" port="21" password="df8cdfcedfccdfebdfeedfc9dfc8dfdcdf9ddf9bdf9fdf83" username="api">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" forceListCommand="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
