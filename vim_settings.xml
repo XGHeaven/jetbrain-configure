@@ -273,8 +273,11 @@
       <file name="$USER_HOME$/Project/redhome/wechat-backend/lib/bunyan-mongoose.js" timestamp="1448176704138">
         <mark key="[" line="26" column="17" />
       </file>
-      <file name="$USER_HOME$/Project/redhome/wechat-backend/lib/mail.js" timestamp="1453299793023">
-        <mark key="[" line="119" column="32" />
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/lib/mail.js" timestamp="1453903120996">
+        <mark key="[" line="81" column="9" />
+        <mark key="]" line="80" column="2" />
+        <mark key="^" line="80" column="2" />
+        <mark key="." line="80" column="2" />
       </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/test/mocha.opts" timestamp="1452502542434">
         <mark key="[" line="0" column="0" />
@@ -312,8 +315,8 @@
       <file name="$USER_HOME$/Project/redhome/api.redhome.cc/rest/models/repair_pc.php" timestamp="1447327661282">
         <mark key="[" line="65" column="61" />
       </file>
-      <file name="$USER_HOME$/Project/redhome/wechat-backend/lib/mock.js" timestamp="1448171575712">
-        <mark key="[" line="7" column="35" />
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/lib/mock.js" timestamp="1453903277204">
+        <mark key="[" line="37" column="67" />
       </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/module/core/filter.js" timestamp="1453827147362">
         <mark key="[" line="10" column="38" />
@@ -403,6 +406,9 @@
       </file>
       <file name="/JavaScript Console" timestamp="1451724136608">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/lib/redhome.js" timestamp="1453903326430">
+        <mark key="[" line="45" column="6" />
       </file>
       <file name="$USER_HOME$/Project/glyphsearch/index.js" timestamp="1449822778231">
         <mark key="[" line="13" column="2" />
@@ -497,35 +503,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhZGRyZXNzOiAiTU9OR09EQl9QT1JUXzI3MDE3X1RDUF9BRERSIiwKICAgICAgICBwb3J0OiAiTU9OR09EQl9QT1JUXzI3MDE3X1RDUF9QT1JUIiwKICAgICAgICB1c2VyOiAiTU9OR09EQl9VU0VSTkFNRSIsCiAgICAgICAgcHdkOiAiTU9OR09EQl9QQVNTV09SRCIsCiAgICAgICAgZGI6ICJNT05HT0RCX0lOU1RBTkNFX05BTUUiCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IHtTdHJpbmd9</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICogQG1lbWJlclRvIE1haWwK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHtTdHJpbmd9</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICogQG1lbWJlclRvIE1haWwK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IHtTdHJpbmd9</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICogQG1lbWJlclRvIE1haWwK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IHtOdW1iZXJ9</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICogQG1lbWJlclRvIE1haWwK</text>
       </register>
       <register name="4" type="4">
-        <text>}</text>
+        <text encoding="base64">IHtTdHJpbmd9</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">e1N0cmluZ30g</text>
+        <text encoding="base64">IHtTdHJpbmd9</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">e1N0cmluZ30g</text>
+        <text encoding="base64">IHtOdW1iZXJ9</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IHtTdHJpbmd9</text>
+        <text>}</text>
       </register>
       <register name="8" type="4">
         <text encoding="base64">e1N0cmluZ30g</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">e1N0cmluZ30g</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IHtTdHJpbmd9</text>
