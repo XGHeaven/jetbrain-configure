@@ -1,9 +1,5 @@
 <code_scheme name="Default (1)">
   <option name="RIGHT_MARGIN" value="80" />
-  <JSCodeStyleSettings>
-    <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
-    <option name="INDENT_CHAINED_CALLS" value="false" />
-  </JSCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
