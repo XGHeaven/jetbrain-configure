@@ -9,17 +9,20 @@
         <mark key="^" line="10" column="1" />
         <mark key="." line="10" column="1" />
       </file>
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/module/text/subScore.js" timestamp="1453997072125">
+        <mark key="[" line="4" column="33" />
+      </file>
       <file name="/a.dummy" timestamp="1452760582842">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/redhome/wechat-backend/api/oauth/openid.js" timestamp="1450892238016">
-        <mark key="[" line="10" column="29" />
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/api/oauth/openid.js" timestamp="1453997342789">
+        <mark key="[" line="28" column="1" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
         <mark key="^" line="24" column="6" />
       </file>
-      <file name="$USER_HOME$/Project/redhome/wechat-backend/package.json" timestamp="1453350741911">
-        <mark key="[" line="2" column="19" />
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/package.json" timestamp="1453997849176">
+        <mark key="[" line="8" column="13" />
         <mark key="]" line="2" column="18" />
         <mark key="^" line="2" column="18" />
         <mark key="." line="2" column="18" />
@@ -66,8 +69,8 @@
         <mark key="." line="48" column="1" />
         <mark key="^" line="48" column="1" />
       </file>
-      <file name="$USER_HOME$/Project/redhome/wechat-backend/api/accessControl.js" timestamp="1450890293999">
-        <mark key="[" line="2" column="3" />
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/api/accessControl.js" timestamp="1453997321470">
+        <mark key="[" line="6" column="17" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -93,6 +96,19 @@
         <mark key="." line="39" column="19" />
         <mark key="^" line="39" column="19" />
       </file>
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/module/text/default.js" timestamp="1453996800401">
+        <mark key="[" line="6" column="1" />
+      </file>
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/api/index.js" timestamp="1453997234857">
+        <mark key="[" line="25" column="64" />
+      </file>
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/config/global.js" timestamp="1453997212659">
+        <mark key="'" line="20" column="26" />
+        <mark key="." line="20" column="53" />
+      </file>
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/module/text/classroom.js" timestamp="1453996668195">
+        <mark key="[" line="7" column="44" />
+      </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/README.md" timestamp="1452611673480">
         <mark key="[" line="78" column="31" />
       </file>
@@ -111,21 +127,16 @@
       <file name="$USER_HOME$/Project/redhome/wechat-backend/lib/mock.js" timestamp="1453903277204">
         <mark key="[" line="37" column="67" />
       </file>
-      <file name="$USER_HOME$/Project/redhome/wechat-backend/module/core/filter.js" timestamp="1453827147362">
-        <mark key="[" line="10" column="38" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-      </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/test/module.text.unbind.js" timestamp="1452607146269">
         <mark key="[" line="17" column="10" />
       </file>
-      <file name="$USER_HOME$/Project/redhome/wechat-backend/api/analytics/index.js" timestamp="1450895805047">
-        <mark key="[" line="2" column="3" />
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/api/analytics/index.js" timestamp="1453997357092">
+        <mark key="[" line="15" column="3" />
         <mark key="]" line="13" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/redhome/wechat-backend/module/text/bind.js" timestamp="1453995551210">
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/module/text/bind.js" timestamp="1453996379734">
         <mark key="[" line="7" column="52" />
       </file>
       <file name="$USER_HOME$/Learning/TypeScript/Wife.ts" timestamp="1453690645132">
@@ -136,6 +147,9 @@
       </file>
       <file name="$USER_HOME$/Project/glyphsearch/.gitignore" timestamp="1449825021678">
         <mark key="[" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/module/text/subRun.js" timestamp="1453996979166">
+        <mark key="[" line="10" column="55" />
       </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/api/oauth/index.js" timestamp="1450889039297">
         <mark key="[" line="0" column="1" />
@@ -158,8 +172,8 @@
         <mark key="^" line="29" column="57" />
         <mark key="." line="29" column="57" />
       </file>
-      <file name="$USER_HOME$/Project/redhome/wechat-backend/api/common.js" timestamp="1450894058772">
-        <mark key="[" line="5" column="3" />
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/api/common.js" timestamp="1453997252355">
+        <mark key="[" line="15" column="10" />
         <mark key="]" line="5" column="38" />
         <mark key="^" line="5" column="38" />
         <mark key="." line="5" column="38" />
@@ -188,8 +202,8 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/redhome/wechat-backend/.jscs.json" timestamp="1453827542170">
-        <mark key="[" line="5" column="5" />
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/.jscs.json" timestamp="1453997714096">
+        <mark key="[" line="1" column="23" />
       </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/test/module.text.default.js" timestamp="1452605468550">
         <mark key="[" line="3" column="0" />
@@ -275,10 +289,10 @@
         <mark key="^" line="173" column="24" />
         <mark key="." line="188" column="4" />
       </file>
-      <file name="$USER_HOME$/Project/redhome/wechat-backend/module/text/subSchedule.js" timestamp="1452089226490">
-        <mark key="[" line="8" column="0" />
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/module/text/subSchedule.js" timestamp="1453996996315">
+        <mark key="[" line="10" column="46" />
         <mark key="]" line="8" column="0" />
-        <mark key="^" line="20" column="30" />
+        <mark key="^" line="21" column="30" />
         <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/module/core/cache.js" timestamp="1453826632231">
@@ -302,17 +316,28 @@
         <mark key="." line="11" column="14" />
         <mark key="^" line="11" column="14" />
       </file>
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/module/text/unbind.js" timestamp="1453997171938">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="16" />
+        <mark key="^" line="8" column="15" />
+        <mark key="." line="16" column="16" />
+      </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/lib/user.js" timestamp="1452485077098">
         <mark key="[" line="59" column="5" />
         <mark key="]" line="9" column="36" />
         <mark key="^" line="9" column="36" />
         <mark key="." line="9" column="36" />
       </file>
-      <file name="$USER_HOME$/Project/redhome/wechat-backend/module/text/subCard.js" timestamp="1451922894372">
-        <mark key="[" line="5" column="30" />
-        <mark key="]" line="41" column="25" />
-        <mark key="." line="41" column="25" />
-        <mark key="^" line="41" column="25" />
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/module/text/card.js" timestamp="1453996604489">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/module/text/subCard.js" timestamp="1453996921227">
+        <mark key="[" line="25" column="14" />
+        <mark key="]" line="42" column="25" />
+        <mark key="." line="42" column="25" />
+        <mark key="^" line="42" column="25" />
       </file>
       <file name="$USER_HOME$/Project/jsshell/README.md" timestamp="1449042167065">
         <mark key="[" line="30" column="0" />
@@ -352,16 +377,17 @@
       <jump line="4652" column="21" filename="$USER_HOME$/Project/redhome/redhome-wechat-import/data.json" />
       <jump line="0" column="4" filename="$USER_HOME$/Project/redhome/redhome-wechat-import/data.json" />
       <jump line="1" column="0" filename="$USER_HOME$/Project/redhome/redhome-wechat-import/data.json" />
+      <jump line="20" column="26" filename="$USER_HOME$/Project/redhome/wechat-backend/config/global.js" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhZGRyZXNzOiAiTU9OR09EQl9QT1JUXzI3MDE3X1RDUF9BRERSIiwKICAgICAgICBwb3J0OiAiTU9OR09EQl9QT1JUXzI3MDE3X1RDUF9QT1JUIiwKICAgICAgICB1c2VyOiAiTU9OR09EQl9VU0VSTkFNRSIsCiAgICAgICAgcHdkOiAiTU9OR09EQl9QQVNTV09SRCIsCiAgICAgICAgZGI6ICJNT05HT0RCX0lOU1RBTkNFX05BTUUiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogQG1lbWJlclRvIE1haWwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IHN0cmluZyA9ICcnOwo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICogQG1lbWJlclRvIE1haWwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IHN0cmluZyA9ICcnOwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICogQG1lbWJlclRvIE1haWwK</text>
@@ -369,20 +395,20 @@
       <register name="3" type="2">
         <text encoding="base64">ICogQG1lbWJlclRvIE1haWwK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IHtTdHJpbmd9</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICogQG1lbWJlclRvIE1haWwK</text>
       </register>
       <register name="5" type="4">
         <text encoding="base64">IHtTdHJpbmd9</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IHtOdW1iZXJ9</text>
+        <text encoding="base64">IHtTdHJpbmd9</text>
       </register>
       <register name="7" type="4">
-        <text>}</text>
+        <text encoding="base64">IHtOdW1iZXJ9</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">e1N0cmluZ30g</text>
+        <text>}</text>
       </register>
       <register name="9" type="4">
         <text encoding="base64">e1N0cmluZ30g</text>
