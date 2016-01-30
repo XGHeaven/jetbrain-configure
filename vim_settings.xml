@@ -369,10 +369,11 @@
       <file name="$USER_HOME$/Project/glyphsearch/js/script.js" timestamp="1449824020056">
         <mark key="[" line="240" column="37" />
       </file>
-      <file name="$USER_HOME$/Project/redhome/wechat-backend/server/core/server.js" timestamp="1454121842335">
-        <mark key="]" line="30" column="32" />
-        <mark key="^" line="30" column="32" />
-        <mark key="." line="30" column="32" />
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/server/core/server.js" timestamp="1454123209409">
+        <mark key="[" line="49" column="50" />
+        <mark key="]" line="10" column="30" />
+        <mark key="." line="10" column="30" />
+        <mark key="^" line="10" column="30" />
       </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/lib/cron.js" timestamp="1453900742523">
         <mark key="[" line="10" column="9" />
@@ -407,34 +408,34 @@
         <text encoding="base64">ICAgICAgICBhZGRyZXNzOiAiTU9OR09EQl9QT1JUXzI3MDE3X1RDUF9BRERSIiwKICAgICAgICBwb3J0OiAiTU9OR09EQl9QT1JUXzI3MDE3X1RDUF9QT1JUIiwKICAgICAgICB1c2VyOiAiTU9OR09EQl9VU0VSTkFNRSIsCiAgICAgICAgcHdkOiAiTU9OR09EQl9QQVNTV09SRCIsCiAgICAgICAgZGI6ICJNT05HT0RCX0lOU1RBTkNFX05BTUUiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaW5zdGFuY2Uuc2NoZW1hKSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVjb3Jkcy5mb3JFYWNoKHJlY29yZCA9PiB7CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgfSkK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaW5zdGFuY2Uuc2NoZW1hKSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVjb3Jkcy5mb3JFYWNoKHJlY29yZCA9PiB7CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgfSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0cnkoKCkgPT4gdGhpcy5oYW5kbGVyKCkpCiAgICAgICAgICAgIC50aGVuKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsb2cuZXJyb3IoewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVyciwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvcGVuSUQKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0sIGBmYWlsOiAke2Vyci5tZXNzYWdlfWApOwo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoaW5zdGFuY2Uuc2NoZW1hKSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IHN0cmluZyA9ICcnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsb2cuZXJyb3IoewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVyciwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvcGVuSUQKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0sIGBmYWlsOiAke2Vyci5tZXNzYWdlfWApOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogQG1lbWJlclRvIE1haWwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogQG1lbWJlclRvIE1haWwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogQG1lbWJlclRvIE1haWwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IHN0cmluZyA9ICcnOwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IHtTdHJpbmd9</text>
