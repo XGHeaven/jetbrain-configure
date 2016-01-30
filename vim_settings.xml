@@ -345,10 +345,11 @@
       <file name="$USER_HOME$/Project/redhome/wechat-backend/config/default.json5" timestamp="1452179873176">
         <mark key="[" line="14" column="13" />
       </file>
-      <file name="$USER_HOME$/Project/redhome/wechat-backend/server/run.js" timestamp="1454141594961">
-        <mark key="[" line="96" column="52" />
-        <mark key="]" line="96" column="0" />
-        <mark key="." line="96" column="50" />
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/server/run.js" timestamp="1454143209623">
+        <mark key="[" line="36" column="32" />
+        <mark key="]" line="36" column="55" />
+        <mark key="^" line="36" column="55" />
+        <mark key="." line="36" column="55" />
       </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/module/text/subSchedule.js" timestamp="1454054198023">
         <mark key="[" line="5" column="6" />
@@ -398,11 +399,6 @@
         <mark key="^" line="9" column="36" />
         <mark key="." line="9" column="36" />
       </file>
-      <file name="$USER_HOME$/Project/redhome/wechat-backend/module/text/card.js" timestamp="1453996604489">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/module/text/subCard.js" timestamp="1453996921227">
         <mark key="[" line="25" column="14" />
         <mark key="]" line="42" column="25" />
@@ -427,11 +423,8 @@
         <mark key="^" line="132" column="24" />
         <mark key="." line="132" column="24" />
       </file>
-      <file name="$USER_HOME$/Project/redhome/wechat-backend/server/core/server.js" timestamp="1454138835692">
-        <mark key="[" line="93" column="42" />
-        <mark key="]" line="79" column="41" />
-        <mark key="." line="79" column="41" />
-        <mark key="^" line="79" column="41" />
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/server/core/server.js" timestamp="1454142705185">
+        <mark key="[" line="100" column="37" />
       </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/lib/cron.js" timestamp="1453900742523">
         <mark key="[" line="10" column="9" />
@@ -439,10 +432,10 @@
       <file name="$USER_HOME$/Project/redhome/wechat-backend/config/default.json" timestamp="1448165574877">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/redhome/wechat-backend/module/core/init.js" timestamp="1454140732573">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/module/core/init.js" timestamp="1454143271929">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -473,31 +466,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGEgPSBKU09OLnBhcnNlKHJlcy5ib2R5KTsK</text>
+        <text encoding="base64">ICAgIC8vZGVidWcoJ2xvYWQgc2VydmVycycpOwogICAgLy8vLyBsb2FkIHNjcmlwdCBpbiBgc2VydmVyYAogICAgLy9sZXQgZmlsZXMgPSByZWFkZGlyLnJlYWRTeW5jKAogICAgLy8gICAgYCR7X19kaXJuYW1lfS8uLi8uLi9zZXJ2ZXJgLAogICAgLy8gICAgWycqKi5qcyddLAogICAgLy8gICAgcmVhZGRpci5OT05fUkVDVVJTSVZFCiAgICAvLykuZmlsdGVyKGZpbGUgPT4gZmlsZVswXSAhPT0gJ18nKTsKICAgIC8vCiAgICAvL2ZvciAobGV0IGZpbGUgb2YgZmlsZXMpIHsKICAgIC8vICAgIGxldCBiYXNlbmFtZSA9IHBhdGguYmFzZW5hbWUoZmlsZSwgJy5qcycpOwogICAgLy8gICAgZGVidWcoYHNlcnZlci8ke2Jhc2VuYW1lfSAtPiAke2Jhc2VuYW1lfSBsb2FkZWRgKTsKICAgIC8vCiAgICAvLyAgICBjYWNoZS5zZXQoJ3NlcnZlcicsIGJhc2VuYW1lLCByZXF1aXJlKGAuLi8uLi9zZXJ2ZXIvJHtmaWxlfWApKTsKICAgIC8vfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoZSkgeyByZXR1cm4gcmVqZWN0KGUpOyB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IG1vbmdvb3NlIGZyb20gJ21vbmdvb3NlJzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbmZpZyBmcm9tICdjb25maWcnOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2VydmVyX3Njb3JlX29uPXRydWUK</text>
+        <text encoding="base64">aW1wb3J0IHluIGZyb20gJ3luJzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIGxvYWQgc2NyaXB0IGluIGBzZXJ2ZXJgCg==</text>
+        <text encoding="base64">aW1wb3J0IGJ1bnlhbk1vbmdvb3NlIGZyb20gJy4uL2xpYi9idW55YW4tbW9uZ29vc2UnOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNhY2hlIGZyb20gJy4vY2FjaGUnOwo=</text>
+        <text encoding="base64">Ly8gbG9nZ2luZwpjb25zdCBsb2cgPSBidW55YW4uY3JlYXRlTG9nZ2VyKHsKICAgIG5hbWU6ICdzZXJ2ZXItcnVuJywKICAgIHR5cGU6ICdzZXJ2ZXInLAogICAgc3RyZWFtczogW3sKICAgICAgICB0eXBlOiAncmF3JywKICAgICAgICBzdHJlYW06IGJ1bnlhbk1vbmdvb3NlCiAgICB9XQp9KTsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlYnVnKCdsb2FkIHNlcnZlcnMnKTsKICAgIC8vIGxvYWQgc2NyaXB0IGluIGBzZXJ2ZXJgCiAgICBsZXQgZmlsZXMgPSByZWFkZGlyLnJlYWRTeW5jKAogICAgICAgIGAke19fZGlybmFtZX0vLi4vLi4vc2VydmVyYCwKICAgICAgICBbJyoqLmpzJ10sCiAgICAgICAgcmVhZGRpci5OT05fUkVDVVJTSVZFCiAgICApLmZpbHRlcihmaWxlID0+IGZpbGVbMF0gIT09ICdfJyk7CgogICAgZm9yIChsZXQgZmlsZSBvZiBmaWxlcykgewogICAgICAgIGxldCBiYXNlbmFtZSA9IHBhdGguYmFzZW5hbWUoZmlsZSwgJy5qcycpOwogICAgICAgIGRlYnVnKGBzZXJ2ZXIvJHtiYXNlbmFtZX0gLT4gJHtiYXNlbmFtZX0gbG9hZGVkYCk7CgogICAgICAgIGNhY2hlLnNldCgnc2VydmVyJywgYmFzZW5hbWUsIHJlcXVpcmUoYC4uLy4uL3NlcnZlci8ke2ZpbGV9YCkpOwogICAgfQo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
