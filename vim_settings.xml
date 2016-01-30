@@ -12,7 +12,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/redhome/wechat-backend/module/core/index.js" timestamp="1454054452417">
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/module/core/index.js" timestamp="1454140726192">
         <mark key="[" line="10" column="1" />
         <mark key="]" line="10" column="1" />
         <mark key="^" line="10" column="1" />
@@ -135,6 +135,12 @@
       <file name="$USER_HOME$/Project/redhome/wechat-backend/api/index.js" timestamp="1453997234857">
         <mark key="[" line="25" column="64" />
       </file>
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/server/core/index.js" timestamp="1454140512767">
+        <mark key="[" line="9" column="13" />
+        <mark key="]" line="5" column="27" />
+        <mark key="^" line="5" column="27" />
+        <mark key="." line="5" column="27" />
+      </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/config/global.js" timestamp="1454129519971">
         <mark key="'" line="20" column="26" />
         <mark key="[" line="25" column="0" />
@@ -145,11 +151,11 @@
       <file name="$USER_HOME$/Project/redhome/wechat-backend/module/text/classroom.js" timestamp="1454053277287">
         <mark key="[" line="44" column="8" />
       </file>
-      <file name="$USER_HOME$/Project/redhome/wechat-backend/test/server.core.server.js" timestamp="1454139342850">
-        <mark key="[" line="102" column="3" />
-        <mark key="]" line="18" column="23" />
-        <mark key="^" line="18" column="23" />
-        <mark key="." line="18" column="23" />
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/test/server.core.server.js" timestamp="1454140220283">
+        <mark key="[" line="9" column="13" />
+        <mark key="]" line="9" column="7" />
+        <mark key="^" line="9" column="7" />
+        <mark key="." line="9" column="7" />
       </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/README.md" timestamp="1452611673480">
         <mark key="[" line="78" column="31" />
@@ -168,6 +174,11 @@
       </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/lib/mock.js" timestamp="1454054468950">
         <mark key="[" line="5" column="27" />
+      </file>
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/module/core/filter.js" timestamp="1453827147362">
+        <mark key="[" line="10" column="38" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/test/module.text.unbind.js" timestamp="1454054703073">
         <mark key="[" line="95" column="6" />
@@ -223,17 +234,20 @@
         <mark key="^" line="5" column="38" />
         <mark key="." line="5" column="38" />
       </file>
-      <file name="$USER_HOME$/Project/redhome/wechat-backend/module/core/module.js" timestamp="1453827609527">
-        <mark key="[" line="24" column="16" />
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/module/core/module.js" timestamp="1454140795547">
+        <mark key="'" line="25" column="21" />
+        <mark key="[" line="131" column="17" />
+        <mark key="]" line="10" column="38" />
+        <mark key="^" line="10" column="38" />
+        <mark key="." line="10" column="38" />
       </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/api/logger.js" timestamp="1450894225500">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/Project/redhome/wechat-backend/.env" timestamp="1452823061777">
-        <mark key="[" line="14" column="21" />
-        <mark key="]" line="14" column="19" />
-        <mark key="." line="14" column="19" />
-        <mark key="^" line="14" column="19" />
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/.env" timestamp="1454141050811">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/module/core/run.js" timestamp="1453827366152">
         <mark key="[" line="16" column="9" />
@@ -331,10 +345,10 @@
       <file name="$USER_HOME$/Project/redhome/wechat-backend/config/default.json5" timestamp="1452179873176">
         <mark key="[" line="14" column="13" />
       </file>
-      <file name="$USER_HOME$/Project/redhome/wechat-backend/server/run.js" timestamp="1454139126336">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/server/run.js" timestamp="1454141594961">
+        <mark key="[" line="96" column="52" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="50" />
       </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/module/text/subSchedule.js" timestamp="1454054198023">
         <mark key="[" line="5" column="6" />
@@ -348,8 +362,11 @@
         <mark key="^" line="6" column="15" />
         <mark key="." line="6" column="15" />
       </file>
-      <file name="$USER_HOME$/Project/redhome/wechat-backend/module/index.js" timestamp="1453826556281">
-        <mark key="[" line="10" column="15" />
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/module/index.js" timestamp="1454140742348">
+        <mark key="[" line="15" column="12" />
+        <mark key="]" line="9" column="21" />
+        <mark key="^" line="9" column="21" />
+        <mark key="." line="9" column="21" />
       </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/lib/context.js" timestamp="1453900725481">
         <mark key="[" line="26" column="14" />
@@ -357,11 +374,11 @@
         <mark key="^" line="26" column="14" />
         <mark key="." line="26" column="14" />
       </file>
-      <file name="$USER_HOME$/Project/redhome/wechat-backend/server/core/init.js" timestamp="1454118439840">
-        <mark key="[" line="2" column="3" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/server/core/init.js" timestamp="1454140892877">
+        <mark key="[" line="5" column="26" />
+        <mark key="]" line="21" column="50" />
+        <mark key="^" line="21" column="50" />
+        <mark key="." line="21" column="50" />
       </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/test/helper/load.js" timestamp="1452523644953">
         <mark key="[" line="11" column="14" />
@@ -422,11 +439,10 @@
       <file name="$USER_HOME$/Project/redhome/wechat-backend/config/default.json" timestamp="1448165574877">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/redhome/wechat-backend/module/core/init.js" timestamp="1453827244363">
-        <mark key="[" line="35" column="37" />
-        <mark key="]" line="51" column="25" />
-        <mark key="." line="51" column="25" />
-        <mark key="^" line="51" column="25" />
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/module/core/init.js" timestamp="1454140732573">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -444,6 +460,7 @@
       <jump line="1" column="0" filename="$USER_HOME$/Project/redhome/redhome-wechat-import/data.json" />
       <jump line="20" column="26" filename="$USER_HOME$/Project/redhome/wechat-backend/config/global.js" />
       <jump line="106" column="0" filename="$USER_HOME$/Project/redhome/wechat-backend/server/run.js" />
+      <jump line="25" column="21" filename="$USER_HOME$/Project/redhome/wechat-backend/module/core/module.js" />
     </jumps>
     <registers>
       <register name="0" type="2">
@@ -456,28 +473,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJlZm9yZShmdW5jdGlvbigpIHsKICAgICAgICBtdWsoU2VydmVyLnByb3RvdHlwZSwgJ2xvZycsIHsKICAgICAgICAgICAgaW5mbygpIHt9LAogICAgICAgICAgICBlcnJvcigpIHt9CiAgICAgICAgfSk7CiAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGEgPSBKU09OLnBhcnNlKHJlcy5ib2R5KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gLS0tLS0tLS0tLSBpbnRlcnZhbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoZSkgeyByZXR1cm4gcmVqZWN0KGUpOyB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2VydmVyX3Njb3JlX29uPXRydWUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gY2hlY2soKSB7CiAgICBsZXQgYWxsID0gMDsKICAgIGxldCBuZWVkID0gMDsKICAgIGxldCBzdWNjZXNzID0gMDsKICAgIGxldCBlcnJvciA9IDA7CgogICAgbG9nLmluZm8oJ3N0YXJ0IGNoZWNraW5nJyk7CiAgICBjb25zdCBzdGFydCA9IERhdGUubm93KCk7CiAgICBtb2RlbC5maW5kKCkuZXhlYygpLnRoZW4ocmVzdWx0cyA9PiB7CiAgICAgICAgYWxsID0gcmVzdWx0cy5sZW5ndGg7CgogICAgICAgIFByb21pc2UubWFwKHJlc3VsdHMsIGl0ZW0gPT4gewogICAgICAgICAgICBsZXQgc3R1ZGVudElEID0gaXRlbS5zdHVkZW50SUQ7CiAgICAgICAgICAgIGxldCBvcGVuSUQgPSBpdGVtLm9wZW5JRDsKCiAgICAgICAgICAgIHJldHVybiBuZXcgUHJvbWlzZShmdW5jdGlvbihyZXNvbHZlLCByZWplY3QpIHsKICAgICAgICAgICAgICAgIHJlcXVlc3QKICAgICAgICAgICAgICAgIC5nZXQoJ2h0dHA6Ly9oZHUuc3VubnlzcG9ydC5vcmcuY24vYXBpL3N0dWRlbnQvYWNoaWV2ZW1lbnRzLycgKwogICAgICAgICAgICAgICAgICAgIHN0dWRlbnRJRCkKICAgICAgICAgICAgICAgIC5lbmQoZnVuY3Rpb24oZXJyLCByZXMpIHsKICAgICAgICAgICAgICAgICAgICBpZiAoZXJyKSB7IHJldHVybiByZWplY3QoZXJyKTsgfQoKICAgICAgICAgICAgICAgICAgICBsZXQgZGF0YSA9IHJlcy5ib2R5OwoKICAgICAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgICAgICBpZiAodHlwZW9mIGRhdGEgPT09ICdzdHJpbmcnKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBkYXRhID0gSlNPTi5wYXJzZShyZXMuYm9keSk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgaWYgKCFkYXRhLmxlbmd0aCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhyb3cgbmV3IFR5cGVFcnJvcigncmVzcG9uc2Ugbm90IGEgYXJyYXknKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0gY2F0Y2ggKGUpIHsgcmV0dXJuIHJlamVjdChlKTsgfQoKICAgICAgICAgICAgICAgICAgICAvLyBzb3J0IGl0CiAgICAgICAgICAgICAgICAgICAgZGF0YS5zb3J0KChhLCBiKSA9PgogICAgICAgICAgICAgICAgICAgICAgICBhLmRhdGUgPT09IGIuZGF0ZSA/CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBhLmRvbWFpbiAhPT0gJ+S4i+WNiCcgOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgYS5kYXRlIDwgYi5kYXRlID8KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAxIDogLTEKICAgICAgICAgICAgICAgICAgICApOwoKICAgICAgICAgICAgICAgICAgICBsZXQgbGFzdFRpbWUgPSBkYXRhWzBdOwoKICAgICAgICAgICAgICAgICAgICBpZiAoZGF0YS5sZW5ndGggPiBpdGVtLnRpbWVzKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIC8vbG9nLmluZm8oJ3NlbmQgbWVzc2FnZSB0byAnICsgc3R1ZGVudElEKTsKICAgICAgICAgICAgICAgICAgICAgICAgbmVlZCsrOwogICAgICAgICAgICAgICAgICAgICAgICBzZW5kVGVtcGxhdGUoJ3J1bicsIGl0ZW0ub3BlbklELCAnJywgJycsIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZpcnN0OiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWU6ICfkurLniLHnmoTlkIzlraYnCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgICAgICAgICAga2V5d29yZDE6IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWx1ZTogbGFzdFRpbWUuZGF0ZSArICcgJyArIGxhc3RUaW1lLmRvbWFpbgogICAgICAgICAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGtleXdvcmQyOiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWU6IGxhc3RUaW1lLm1pbGVhZ2UgKyAnIG0nCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgICAgICAgICAga2V5d29yZDM6IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWx1ZTogbGFzdFRpbWUuc3BlZWQgKyAnIG0vcycKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBrZXl3b3JkNDogewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbHVlOiBsYXN0VGltZS5pc1ZhbGlkID09PSAndHJ1ZScgPwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAn5pyJ5pWI4pyFJyA6ICfml6DmlYjinY4nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbG9yOiBsYXN0VGltZS5pc1ZhbGlkID09PSAndHJ1ZScgPwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnIzFkOTUzZicgOiAnI2VkMTk0MScKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICByZW1hcms6IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWx1ZTogJ+WmguaenOS4jeaDs+aOpeaUtuWIsOatpOa2iOaBr++8jOivt+WbnuWkjeOAkOWPlua2iOiuoumYhemYs+WFiemVv+i3keOAkScKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgfSkudGhlbihyZXN1bHQgPT4gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgbG9nLmluZm8oewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9wZW5JRAogICAgICAgICAgICAgICAgICAgICAgICAgICAgfSwgJ3NlbmQgdG8gJyArIHN0dWRlbnRJRCArICcgc3VjY2Vzc2Z1bGx5Jyk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gbW9kZWwudXBkYXRlKHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvcGVuSUQKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0sIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aW1lczogZGF0YS5sZW5ndGgKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgICAgICAgICB9KS50aGVuKHJlc3VsdCA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXNvbHZlKCk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0pLmNhdGNoKGVyciA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBsb2cuZXJyb3Ioe2Vyciwgb3BlbklEfSwgYGZhaWw6ICR7ZXJyLm1lc3NhZ2V9YCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoZXJyLmNvZGUgPT09IDQzMDA0KSB7IHJlbW92ZShvcGVuSUQpOyB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICByZWplY3QoZXJyKTsKICAgICAgICAgICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAgICAgcmVzb2x2ZSgpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICB9KS5yZWZsZWN0KCk7CiAgICAgICAgfSwgewogICAgICAgICAgICBjb25jdXJyZW5jeTogMQogICAgICAgIH0pLnRoZW4ocHJvbWlzZXMgPT4gewogICAgICAgICAgICBwcm9taXNlcy5mb3JFYWNoKHByb21pc2UgPT4gewogICAgICAgICAgICAgICAgaWYgKHByb21pc2UuaXNGdWxmaWxsZWQoKSkgewogICAgICAgICAgICAgICAgICAgIHN1Y2Nlc3MrKzsKICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgZXJyb3IrKzsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSk7CiAgICAgICAgICAgIGxvZy5pbmZvKHsKICAgICAgICAgICAgICAgIHRpbWVVc2FnZTogRGF0ZS5ub3coKSAtIHN0YXJ0CiAgICAgICAgICAgIH0sIGBhbGw9JHthbGx9IG5lZWQ9JHtuZWVkfSBzdWNjZXNzPSR7c3VjY2Vzc30gZXJyb3I9JHtlcnJvcn1gKTsKICAgICAgICB9KTsKICAgIH0pOwp9Cg==</text>
+        <text encoding="base64">ICAgIC8vIGxvYWQgc2NyaXB0IGluIGBzZXJ2ZXJgCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bGV0IG1vZGVsID0gbW9uZ29vc2UubW9kZWwoJ3J1bicsIHNjaGVtYSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNhY2hlIGZyb20gJy4vY2FjaGUnOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlYnVnKCdsb2FkIHNlcnZlcnMnKTsKICAgIC8vIGxvYWQgc2NyaXB0IGluIGBzZXJ2ZXJgCiAgICBsZXQgZmlsZXMgPSByZWFkZGlyLnJlYWRTeW5jKAogICAgICAgIGAke19fZGlybmFtZX0vLi4vLi4vc2VydmVyYCwKICAgICAgICBbJyoqLmpzJ10sCiAgICAgICAgcmVhZGRpci5OT05fUkVDVVJTSVZFCiAgICApLmZpbHRlcihmaWxlID0+IGZpbGVbMF0gIT09ICdfJyk7CgogICAgZm9yIChsZXQgZmlsZSBvZiBmaWxlcykgewogICAgICAgIGxldCBiYXNlbmFtZSA9IHBhdGguYmFzZW5hbWUoZmlsZSwgJy5qcycpOwogICAgICAgIGRlYnVnKGBzZXJ2ZXIvJHtiYXNlbmFtZX0gLT4gJHtiYXNlbmFtZX0gbG9hZGVkYCk7CgogICAgICAgIGNhY2hlLnNldCgnc2VydmVyJywgYmFzZW5hbWUsIHJlcXVpcmUoYC4uLy4uL3NlcnZlci8ke2ZpbGV9YCkpOwogICAgfQo=</text>
       </register>
       <register name="-" type="4">
         <text>{</text>
@@ -508,6 +525,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
