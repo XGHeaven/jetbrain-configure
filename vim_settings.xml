@@ -21,10 +21,11 @@
       <file name="$USER_HOME$/Project/redhome/wechat-backend/module/text/subScore.js" timestamp="1454054179535">
         <mark key="[" line="4" column="24" />
       </file>
-      <file name="$USER_HOME$/Project/redhome/wechat-backend/test/server.run.js" timestamp="1454146968160">
-        <mark key="[" line="12" column="35" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/test/server.run.js" timestamp="1454208390626">
+        <mark key="[" line="24" column="8" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1452760582842">
         <mark key="[" line="0" column="0" />
@@ -128,8 +129,9 @@
         <mark key="." line="39" column="19" />
         <mark key="^" line="39" column="19" />
       </file>
-      <file name="$USER_HOME$/Project/redhome/wechat-backend/test/module.core.context.js" timestamp="1454054643921">
-        <mark key="[" line="33" column="50" />
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/test/module.core.context.js" timestamp="1454208380234">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="24" />
       </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/module/text/schedule.js" timestamp="1454054005384">
         <mark key="[" line="6" column="60" />
@@ -350,7 +352,7 @@
       <file name="$USER_HOME$/Project/redhome/wechat-backend/config/default.json5" timestamp="1452179873176">
         <mark key="[" line="14" column="13" />
       </file>
-      <file name="$USER_HOME$/Project/redhome/wechat-backend/server/run.js" timestamp="1454143209623">
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/server/run.js" timestamp="1454208503961">
         <mark key="[" line="36" column="32" />
         <mark key="]" line="36" column="55" />
         <mark key="^" line="36" column="55" />
@@ -462,13 +464,13 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBleGVjKCkgewogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gUHJvbWlzZS5yZXNvbHZlKFsxLDIsMyw0LDVdKTsKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">cHJveHlxdWlyZS5ub0NhbGxUaHJ1KCk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGJlZm9yZShmdW5jdGlvbigpIHsKICAgICAgICAKICAgIH0pOwo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJlZm9yZShmdW5jdGlvbigpIHsKICAgICAgICAKICAgIH0pOwo=</text>
+        <text encoding="base64">cHJveHlxdWlyZS5ub0NhbGxUaHJ1KCk7Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
