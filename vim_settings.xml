@@ -23,10 +23,11 @@
       <file name="$USER_HOME$/Project/redhome/wechat-backend/module/text/subScore.js" timestamp="1454054179535">
         <mark key="[" line="4" column="24" />
       </file>
-      <file name="$USER_HOME$/Project/redhome/wechat-backend/test/server.run.js" timestamp="1454227481532">
-        <mark key="[" line="142" column="46" />
-        <mark key="]" line="142" column="0" />
-        <mark key="." line="142" column="0" />
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/test/server.run.js" timestamp="1454231576839">
+        <mark key="[" line="167" column="54" />
+        <mark key="]" line="167" column="11" />
+        <mark key="." line="167" column="11" />
+        <mark key="^" line="167" column="11" />
       </file>
       <file name="/a.dummy" timestamp="1452760582842">
         <mark key="[" line="0" column="0" />
@@ -405,11 +406,6 @@
         <mark key="]" line="9" column="36" />
         <mark key="^" line="9" column="36" />
         <mark key="." line="9" column="36" />
-      </file>
-      <file name="$USER_HOME$/Project/redhome/wechat-backend/module/text/card.js" timestamp="1453996604489">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/module/text/subCard.js" timestamp="1453996921227">
         <mark key="[" line="25" column="14" />
