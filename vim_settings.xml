@@ -3,8 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Project/redhome/wechat-backend/test/helper/wechat.js" timestamp="1454054626661">
-        <mark key="[" line="36" column="42" />
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/test/helper/wechat.js" timestamp="1454221124459">
+        <mark key="[" line="53" column="28" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/server/core/cache.js" timestamp="1454118410105">
         <mark key="[" line="2" column="0" />
@@ -21,11 +23,11 @@
       <file name="$USER_HOME$/Project/redhome/wechat-backend/module/text/subScore.js" timestamp="1454054179535">
         <mark key="[" line="4" column="24" />
       </file>
-      <file name="$USER_HOME$/Project/redhome/wechat-backend/test/server.run.js" timestamp="1454208390626">
-        <mark key="[" line="24" column="8" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="9" column="0" />
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/test/server.run.js" timestamp="1454223096833">
+        <mark key="[" line="141" column="42" />
+        <mark key="]" line="174" column="11" />
+        <mark key="." line="136" column="0" />
+        <mark key="^" line="136" column="7" />
       </file>
       <file name="/a.dummy" timestamp="1452760582842">
         <mark key="[" line="0" column="0" />
@@ -39,11 +41,11 @@
       <file name="$USER_HOME$/Project/redhome/wechat-backend/lib/error.js" timestamp="1454054481578">
         <mark key="[" line="17" column="1" />
       </file>
-      <file name="$USER_HOME$/Project/redhome/wechat-backend/test/helper/global.js" timestamp="1454131041217">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="34" column="32" />
-        <mark key="^" line="34" column="32" />
-        <mark key="." line="34" column="32" />
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/test/helper/global.js" timestamp="1454217958748">
+        <mark key="[" line="40" column="52" />
+        <mark key="]" line="40" column="52" />
+        <mark key="^" line="38" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/package.json" timestamp="1454135583555">
         <mark key="[" line="46" column="25" />
@@ -158,8 +160,8 @@
       <file name="$USER_HOME$/Project/redhome/wechat-backend/module/text/classroom.js" timestamp="1454053277287">
         <mark key="[" line="44" column="8" />
       </file>
-      <file name="$USER_HOME$/Project/redhome/wechat-backend/test/server.core.server.js" timestamp="1454140220283">
-        <mark key="[" line="9" column="13" />
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/test/server.core.server.js" timestamp="1454218019792">
+        <mark key="[" line="9" column="8" />
         <mark key="]" line="9" column="7" />
         <mark key="^" line="9" column="7" />
         <mark key="." line="9" column="7" />
@@ -352,11 +354,11 @@
       <file name="$USER_HOME$/Project/redhome/wechat-backend/config/default.json5" timestamp="1452179873176">
         <mark key="[" line="14" column="13" />
       </file>
-      <file name="$USER_HOME$/Project/redhome/wechat-backend/server/run.js" timestamp="1454217332347">
-        <mark key="[" line="36" column="32" />
-        <mark key="]" line="36" column="55" />
-        <mark key="^" line="36" column="55" />
-        <mark key="." line="36" column="55" />
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/server/run.js" timestamp="1454222057417">
+        <mark key="[" line="131" column="10" />
+        <mark key="]" line="131" column="39" />
+        <mark key="." line="131" column="39" />
+        <mark key="^" line="131" column="39" />
       </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/module/text/subSchedule.js" timestamp="1454054198023">
         <mark key="[" line="5" column="6" />
@@ -430,8 +432,10 @@
         <mark key="^" line="132" column="24" />
         <mark key="." line="132" column="24" />
       </file>
-      <file name="$USER_HOME$/Project/redhome/wechat-backend/server/core/server.js" timestamp="1454142705185">
-        <mark key="[" line="100" column="37" />
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/server/core/server.js" timestamp="1454218176183">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/lib/cron.js" timestamp="1453900742523">
         <mark key="[" line="10" column="9" />
@@ -464,40 +468,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">cHJveHlxdWlyZS5ub0NhbGxUaHJ1KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgaXRlbSA9IHsKICAgICAgICAgICAgb3BlbklEOiAnb3BlbklEJywKICAgICAgICAgICAgc3R1ZGVudElEOiAnMTIzMTIzJywKICAgICAgICAgICAgdGltZXM6IDAsCiAgICAgICAgICAgIHNhdmU6IHNpbm9uLnNweSgoKSA9PiB7CiAgICAgICAgICAgICAgICByZXR1cm4gUHJvbWlzZS50cnkoKCkgPT4gewogICAgICAgICAgICAgICAgICAgIGl0ZW0udGltZXMuc2hvdWxkLmVxdWFsKDEpOwogICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgIH0pCiAgICAgICAgfTsKCiAgICAgICAgbW9jawogICAgICAgIC5nZXQoCiAgICAgICAgICAgICdodHRwOi8vaGR1LnN1bm55c3BvcnQub3JnLmNuL2FwaS9zdHVkZW50L2FjaGlldmVtZW50cy8xMjMxMjMnLAogICAgICAgICAgICAocmVxKSA9PiB7CiAgICAgICAgICAgICAgICByZXR1cm4gewogICAgICAgICAgICAgICAgICAgIGJvZHk6IFt7CiAgICAgICAgICAgICAgICAgICAgICAgIGRhdGU6ICcyMDE2LTAxLTAxJywKICAgICAgICAgICAgICAgICAgICAgICAgZG9tYWluOiAn5LiL5Y2IJywKICAgICAgICAgICAgICAgICAgICAgICAgbWlsZWFnZTogJzIwMDAnLAogICAgICAgICAgICAgICAgICAgICAgICBzcGVlZDogJzMuMCcsCiAgICAgICAgICAgICAgICAgICAgICAgIGlzVmFsaWQ6ICd0cnVlJwogICAgICAgICAgICAgICAgICAgIH1dCiAgICAgICAgICAgICAgICB9OwogICAgICAgICAgICB9CiAgICAgICAgKTsKCiAgICAgICAgc2VuZFRlbXBsYXRlLnJldHVybnMobmV3IFByb21pc2UucmVzb2x2ZSgpKTsKCiAgICAgICAgcmV0dXJuIHJ1blNlcnZlci5oYW5kbGVyKGl0ZW0pLnNob3VsZC5iZS5mdWxmaWxsZWQoKS50aGVuKCgpID0+IHsKICAgICAgICAgICAgaXRlbS5zYXZlLnNob3VsZC5iZS5jYWxsZWRPbmNlKCk7CiAgICAgICAgICAgIHNlbmRUZW1wbGF0ZS5zaG91bGQuYmUuY2FsbGVkT25jZSgpOwogICAgICAgICAgICBzZW5kVGVtcGxhdGUuYXJnc1swXVs0XS5zaG91bGQuY29udGFpbkVxbCh7CiAgICAgICAgICAgICAgICBrZXl3b3JkMTogewogICAgICAgICAgICAgICAgICAgIHZhbHVlOiAnMjAxNi0wMS0wMSDkuIvljYgnCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pLmFuZC5pcy5hLnRlbXBsYXRlKCk7CiAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJlZm9yZShmdW5jdGlvbigpIHsKICAgICAgICAKICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgIGl0KCcjc29ydCcsIGZ1bmN0aW9uKCkgewogICAgICAgIGxldCBpdGVtcyA9IFt7CiAgICAgICAgICAgIGRhdGU6ICcyMDE2LTAxLTAxJywKICAgICAgICAgICAgZG9tYWluOiAn5LiK5Y2IJwogICAgICAgIH0sIHsKICAgICAgICAgICAgZGF0ZTogJzIwMTYtMDEtMDEnLAogICAgICAgICAgICBkb21haW46ICfkuIvljYgnCiAgICAgICAgfSwgewogICAgICAgICAgICBkYXRlOiAnMjAxNS0xMi0yMycsCiAgICAgICAgICAgIGRvbWFpbjogJ+S4iuWNiCcKICAgICAgICB9ICx7CiAgICAgICAgICAgIGRhdGU6ICcyMDE2LTExLTEzJywKICAgICAgICAgICAgZG9tYWluOiAn5LiK5Y2IJwogICAgICAgIH0sIHsKICAgICAgICAgICAgZGF0ZTogJzIwMTYtMTItMTMnLAogICAgICAgICAgICBkb21haW46ICfkuIrljYgnCiAgICAgICAgfV07CgogICAgICAgIGxldCByaWdodCA9IFt7CiAgICAgICAgICAgIGRhdGU6ICcyMDE2LTEyLTEzJywKICAgICAgICAgICAgZG9tYWluOiAn5LiK5Y2IJwogICAgICAgIH0sIHsKICAgICAgICAgICAgZGF0ZTogJzIwMTYtMTEtMTMnLAogICAgICAgICAgICBkb21haW46ICfkuIrljYgnCiAgICAgICAgfSwgewogICAgICAgICAgICBkYXRlOiAnMjAxNi0wMS0wMScsCiAgICAgICAgICAgIGRvbWFpbjogJ+S4i+WNiCcKICAgICAgICB9LCB7CiAgICAgICAgICAgIGRhdGU6ICcyMDE2LTAxLTAxJywKICAgICAgICAgICAgZG9tYWluOiAn5LiK5Y2IJwogICAgICAgIH0sIHsKICAgICAgICAgICAgZGF0ZTogJzIwMTUtMTItMjMnLAogICAgICAgICAgICBkb21haW46ICfkuIrljYgnCiAgICAgICAgfV07CgogICAgICAgIGxldCBpID0gMDsKCiAgICAgICAgZG8gewogICAgICAgICAgICBydW5TZXJ2ZXIuc29ydFJ1blRpbWVzKGl0ZW1zKTsKICAgICAgICAgICAgaXRlbXMuc2hvdWxkLmJlLmVxbChyaWdodCk7CiAgICAgICAgICAgIGl0ZW1zLnNvcnQoKGEsYikgPT4gcmFuZG9tKC0xLDEpKTsKICAgICAgICAgICAgaSsrOwogICAgICAgIH0gd2hpbGUgKGkgPCA1KTsKICAgIH0pOwo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">cHJveHlxdWlyZS5ub0NhbGxUaHJ1KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgaXRlbSA9IHsKICAgICAgICAgICAgb3BlbklEOiAnb3BlbklEJywKICAgICAgICAgICAgc3R1ZGVudElEOiAnMTIzMTIzJywKICAgICAgICAgICAgdGltZXM6IDAsCiAgICAgICAgICAgIHNhdmU6IHNpbm9uLnNweSgoKSA9PiB7CiAgICAgICAgICAgICAgICByZXR1cm4gUHJvbWlzZS50cnkoKCkgPT4gewogICAgICAgICAgICAgICAgICAgIGl0ZW0udGltZXMuc2hvdWxkLmVxdWFsKDEpOwogICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgIH0pCiAgICAgICAgfTsKCiAgICAgICAgbW9jawogICAgICAgIC5nZXQoCiAgICAgICAgICAgICdodHRwOi8vaGR1LnN1bm55c3BvcnQub3JnLmNuL2FwaS9zdHVkZW50L2FjaGlldmVtZW50cy8xMjMxMjMnLAogICAgICAgICAgICAocmVxKSA9PiB7CiAgICAgICAgICAgICAgICByZXR1cm4gewogICAgICAgICAgICAgICAgICAgIGJvZHk6IFt7CiAgICAgICAgICAgICAgICAgICAgICAgIGRhdGU6ICcyMDE2LTAxLTAxJywKICAgICAgICAgICAgICAgICAgICAgICAgZG9tYWluOiAn5LiL5Y2IJywKICAgICAgICAgICAgICAgICAgICAgICAgbWlsZWFnZTogJzIwMDAnLAogICAgICAgICAgICAgICAgICAgICAgICBzcGVlZDogJzMuMCcsCiAgICAgICAgICAgICAgICAgICAgICAgIGlzVmFsaWQ6ICd0cnVlJwogICAgICAgICAgICAgICAgICAgIH1dCiAgICAgICAgICAgICAgICB9OwogICAgICAgICAgICB9CiAgICAgICAgKTsKCiAgICAgICAgc2VuZFRlbXBsYXRlLnJldHVybnMobmV3IFByb21pc2UucmVzb2x2ZSgpKTsKCiAgICAgICAgcmV0dXJuIHJ1blNlcnZlci5oYW5kbGVyKGl0ZW0pLnNob3VsZC5iZS5mdWxmaWxsZWQoKS50aGVuKCgpID0+IHsKICAgICAgICAgICAgaXRlbS5zYXZlLnNob3VsZC5iZS5jYWxsZWRPbmNlKCk7CiAgICAgICAgICAgIHNlbmRUZW1wbGF0ZS5zaG91bGQuYmUuY2FsbGVkT25jZSgpOwogICAgICAgICAgICBzZW5kVGVtcGxhdGUuYXJnc1swXVs0XS5zaG91bGQuY29udGFpbkVxbCh7CiAgICAgICAgICAgICAgICBrZXl3b3JkMTogewogICAgICAgICAgICAgICAgICAgIHZhbHVlOiAnMjAxNi0wMS0wMSDkuIvljYgnCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pLmFuZC5pcy5hLnRlbXBsYXRlKCk7CiAgICAgICAgfSk7Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">LmNhdGNoKGVyciA9PiBjb25zb2xlLmxvZyhlcnIpKQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vZGVidWcoJ2xvYWQgc2VydmVycycpOwogICAgLy8vLyBsb2FkIHNjcmlwdCBpbiBgc2VydmVyYAogICAgLy9sZXQgZmlsZXMgPSByZWFkZGlyLnJlYWRTeW5jKAogICAgLy8gICAgYCR7X19kaXJuYW1lfS8uLi8uLi9zZXJ2ZXJgLAogICAgLy8gICAgWycqKi5qcyddLAogICAgLy8gICAgcmVhZGRpci5OT05fUkVDVVJTSVZFCiAgICAvLykuZmlsdGVyKGZpbGUgPT4gZmlsZVswXSAhPT0gJ18nKTsKICAgIC8vCiAgICAvL2ZvciAobGV0IGZpbGUgb2YgZmlsZXMpIHsKICAgIC8vICAgIGxldCBiYXNlbmFtZSA9IHBhdGguYmFzZW5hbWUoZmlsZSwgJy5qcycpOwogICAgLy8gICAgZGVidWcoYHNlcnZlci8ke2Jhc2VuYW1lfSAtPiAke2Jhc2VuYW1lfSBsb2FkZWRgKTsKICAgIC8vCiAgICAvLyAgICBjYWNoZS5zZXQoJ3NlcnZlcicsIGJhc2VuYW1lLCByZXF1aXJlKGAuLi8uLi9zZXJ2ZXIvJHtmaWxlfWApKTsKICAgIC8vfQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG1vbmdvb3NlIGZyb20gJ21vbmdvb3NlJzsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbmZpZyBmcm9tICdjb25maWcnOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHluIGZyb20gJ3luJzsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGJ1bnlhbk1vbmdvb3NlIGZyb20gJy4uL2xpYi9idW55YW4tbW9uZ29vc2UnOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB0aHJvdyAxOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgKGxldCBpID0gMDsgaSA8IDU7IGkrKykgewogICAgICAgICAgICBydW5TZXJ2ZXIuc29ydFJ1blRpbWVzKGl0ZW1zKTsKICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaXRlbXMuc29ydCgoYSxiKSA9PiByYW5kb20oLTEsMSkpOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gbG9nZ2luZwpjb25zdCBsb2cgPSBidW55YW4uY3JlYXRlTG9nZ2VyKHsKICAgIG5hbWU6ICdzZXJ2ZXItcnVuJywKICAgIHR5cGU6ICdzZXJ2ZXInLAogICAgc3RyZWFtczogW3sKICAgICAgICB0eXBlOiAncmF3JywKICAgICAgICBzdHJlYW06IGJ1bnlhbk1vbmdvb3NlCiAgICB9XQp9KTsK</text>
+        <text encoding="base64">ICAgICAgICBydW5TZXJ2ZXIuc29ydFJ1blRpbWVzKGl0ZW1zKTsKICAgICAgICBpdGVtcy5zaG91bGQuYmUuZXFsKHJpZ2h0KTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">LmNhdGNoKGVyciA9PiBjb25zb2xlLmxvZyhlcnIpKQ==</text>
       </register>
     </registers>
     <search>
