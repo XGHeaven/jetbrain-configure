@@ -63,11 +63,11 @@
         <mark key="^" line="2" column="18" />
         <mark key="." line="2" column="18" />
       </file>
-      <file name="$USER_HOME$/Project/redhome/wechat-backend/server/schedule.js" timestamp="1456816238696">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="^" line="45" column="5" />
-        <mark key="." line="51" column="0" />
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/server/schedule.js" timestamp="1456817926444">
+        <mark key="[" line="19" column="66" />
+        <mark key="]" line="19" column="66" />
+        <mark key="^" line="19" column="66" />
+        <mark key="." line="19" column="66" />
       </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/module/text/cardLose.js" timestamp="1454054426927">
         <mark key="[" line="34" column="22" />
@@ -141,6 +141,12 @@
         <mark key="^" line="80" column="2" />
         <mark key="." line="80" column="2" />
       </file>
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/test/server.schedule.js" timestamp="1456817949068">
+        <mark key="[" line="2" column="3" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Project/redhome/api.redhome.cc/rest/models/sports_meeting.php" timestamp="1446038970293">
         <mark key="[" line="69" column="45" />
         <mark key="]" line="39" column="19" />
@@ -201,9 +207,6 @@
         <mark key="[" line="10" column="38" />
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
-      </file>
-      <file name="$USER_HOME$/Learning/React/react-redux-todo/src/index.html" timestamp="1456764748472">
-        <mark key="[" line="6" column="6" />
       </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/test/module.text.unbind.js" timestamp="1454054703073">
         <mark key="[" line="95" column="6" />
@@ -363,11 +366,11 @@
         <mark key="^" line="4" column="29" />
         <mark key="." line="31" column="21" />
       </file>
-      <file name="$USER_HOME$/Project/redhome/wechat-backend/server/score.js" timestamp="1454049705937">
-        <mark key="[" line="52" column="74" />
-        <mark key="]" line="156" column="43" />
-        <mark key="^" line="156" column="43" />
-        <mark key="." line="156" column="43" />
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/server/score.js" timestamp="1456818090225">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="4" />
+        <mark key="^" line="44" column="42" />
+        <mark key="." line="63" column="4" />
       </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/test/helper/module.js" timestamp="1454054612938">
         <mark key="[" line="24" column="1" />
@@ -385,7 +388,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/server/run.js" timestamp="1456813434880" />
-      <file name="$USER_HOME$/Project/redhome/wechat-backend/module/text/subSchedule.js" timestamp="1454054198023">
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/module/text/subSchedule.js" timestamp="1456817114017">
         <mark key="[" line="5" column="6" />
         <mark key="]" line="8" column="0" />
         <mark key="^" line="21" column="30" />
@@ -512,40 +515,42 @@
       <jump line="20" column="26" filename="$USER_HOME$/Project/redhome/wechat-backend/config/global.js" />
       <jump line="106" column="0" filename="$USER_HOME$/Project/redhome/wechat-backend/server/run.js" />
       <jump line="25" column="21" filename="$USER_HOME$/Project/redhome/wechat-backend/module/core/module.js" />
+      <jump line="44" column="5" filename="$USER_HOME$/Project/redhome/wechat-backend/server/schedule.js" />
+      <jump line="49" column="4" filename="$USER_HOME$/Project/redhome/wechat-backend/server/schedule.js" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5pbnB1dC1ncm91cAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBQcm9taXNlCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBQcm9taXNlCg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0pLnRoZW4ocmVzdWx0ID0+IHsK</text>
+        <text encoding="base64">ICAgIHJldHVybiByZXRyeSgoKSA9PiB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBuZXcgUHJvbWlzZSgocmVzb2x2ZSxyZWplY3QpID0+IHsK</text>
+        <text encoding="base64">aW1wb3J0IHluIGZyb20gJ3luJzsK</text>
       </register>
-      <register name="5" type="4">
-        <text>}</text>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IERlYnVnIGZyb20gJ2RlYnVnJzsK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbmZpZyBmcm9tICdjb25maWcnOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>{</text>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IG1vbWVudCBmcm9tICdtb21lbnQtdGltZXpvbmUnOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IGJ1bnlhbiBmcm9tICdidW55YW4nOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>)</text>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IG1vbmdvb3NlIGZyb20gJ21vbmdvb3NlJzsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
