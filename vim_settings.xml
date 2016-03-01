@@ -63,11 +63,11 @@
         <mark key="^" line="2" column="18" />
         <mark key="." line="2" column="18" />
       </file>
-      <file name="$USER_HOME$/Project/redhome/wechat-backend/server/schedule.js" timestamp="1456813339635">
-        <mark key="[" line="47" column="51" />
-        <mark key="]" line="47" column="50" />
-        <mark key="^" line="47" column="50" />
-        <mark key="." line="47" column="50" />
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/server/schedule.js" timestamp="1456816238696">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="^" line="45" column="5" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/module/text/cardLose.js" timestamp="1454054426927">
         <mark key="[" line="34" column="22" />
@@ -129,8 +129,11 @@
       <file name="$USER_HOME$/Project/laomao/laomao-frontend/src/stylus/variable/base.styl" timestamp="1456481140963">
         <mark key="[" line="2" column="33" />
       </file>
-      <file name="$USER_HOME$/Project/redhome/wechat-backend/test/server.card.js" timestamp="1456814650187">
-        <mark key="[" line="2" column="3" />
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/test/server.card.js" timestamp="1456815974012">
+        <mark key="[" line="21" column="13" />
+        <mark key="]" line="39" column="16" />
+        <mark key="." line="39" column="16" />
+        <mark key="^" line="39" column="16" />
       </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/lib/mail.js" timestamp="1453903120996">
         <mark key="[" line="81" column="9" />
@@ -473,10 +476,11 @@
         <mark key="." line="33" column="32" />
       </file>
       <file name="$USER_HOME$/Learning/React/react-redux-todo/src/store/store.js" timestamp="1456797132750" />
-      <file name="$USER_HOME$/Project/redhome/wechat-backend/server/card.js" timestamp="1456814760604">
-        <mark key="[" line="80" column="40" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/server/card.js" timestamp="1456815323734">
+        <mark key="[" line="23" column="15" />
+        <mark key="]" line="23" column="19" />
+        <mark key="." line="23" column="19" />
+        <mark key="^" line="23" column="19" />
       </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/server/core/server.js" timestamp="1454218176183">
         <mark key="[" line="80" column="0" />
@@ -514,34 +518,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5pbnB1dC1ncm91cAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGJ1bnlhbk1vbmdvb3NlIGZyb20gJy4uL2xpYi9idW55YW4tbW9uZ29vc2UnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGJ1bnlhbk1vbmdvb3NlIGZyb20gJy4uL2xpYi9idW55YW4tbW9uZ29vc2UnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNyb24gZnJvbSAnLi4vbGliL2Nyb24nOwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbmZpZyBmcm9tICdjb25maWcnOwppbXBvcnQgRGVidWcgZnJvbSAnZGVidWcnOwppbXBvcnQgeW4gZnJvbSAneW4nOwo=</text>
+        <text encoding="base64">ICAgIH0pLnRoZW4ocmVzdWx0ID0+IHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG1vbmdvb3NlIGZyb20gJ21vbmdvb3NlJzsKaW1wb3J0IGJ1bnlhbiBmcm9tICdidW55YW4nOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBuZXcgUHJvbWlzZSgocmVzb2x2ZSxyZWplY3QpID0+IHsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>}</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgbG9nID0gYnVueWFuLmNyZWF0ZUxvZ2dlcih7CiAgICBuYW1lOiAnc2VydmVyLWNhcmQnLAogICAgdHlwZTogJ3NlcnZlcicsCiAgICBzdHJlYW1zOiBbewogICAgICAgIHR5cGU6ICdyYXcnLAogICAgICAgIHN0cmVhbTogYnVueWFuTW9uZ29vc2UKICAgIH1dCn0pOwo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>{</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgZGVidWcgPSBEZWJ1ZygnUkhXOnNlcnZlcjpjYXJkJyk7Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
