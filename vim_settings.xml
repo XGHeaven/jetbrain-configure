@@ -57,7 +57,7 @@
         <mark key="." line="41" column="0" />
         <mark key="^" line="40" column="106" />
       </file>
-      <file name="$USER_HOME$/Project/redhome/wechat-backend/package.json" timestamp="1454135583555">
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/package.json" timestamp="1456812442868">
         <mark key="[" line="46" column="25" />
         <mark key="]" line="2" column="18" />
         <mark key="^" line="2" column="18" />
@@ -101,6 +101,9 @@
         <mark key="]" line="1" column="2" />
         <mark key="^" line="1" column="2" />
         <mark key="." line="1" column="2" />
+      </file>
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/src/redis.js" timestamp="1456812770809">
+        <mark key="[" line="16" column="25" />
       </file>
       <file name="$USER_HOME$/Learning/React/react-redux-todo/src/component/App.js" timestamp="1456797350248">
         <mark key="[" line="20" column="0" />
@@ -374,11 +377,6 @@
       </file>
       <file name="$USER_HOME$/Learning/React/react-redux-todo/server.js" timestamp="1456764784562">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Project/redhome/wechat-backend/server/run.js" timestamp="1456803265384">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/module/text/subSchedule.js" timestamp="1454054198023">
         <mark key="[" line="5" column="6" />
