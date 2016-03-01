@@ -102,6 +102,9 @@
         <mark key="^" line="1" column="2" />
         <mark key="." line="1" column="2" />
       </file>
+      <file name="$USER_HOME$/Learning/React/react-redux-todo/src/component/App.js" timestamp="1456795629328">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/src/wechat.js" timestamp="1453826327150">
         <mark key="[" line="30" column="21" />
         <mark key="]" line="48" column="1" />
@@ -169,6 +172,9 @@
         <mark key="[" line="11" column="30" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Learning/React/react-redux-todo/src/component/Main.js" timestamp="1456795851780">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/module/core/filter.js" timestamp="1453827147362">
         <mark key="[" line="10" column="38" />
@@ -287,6 +293,12 @@
       </file>
       <file name="$USER_HOME$/Project/laomao/laomao-frontend/.babelrc" timestamp="1455699696241">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Learning/React/react-redux-todo/src/store/reducer.js" timestamp="1456795493028">
+        <mark key="[" line="3" column="30" />
+        <mark key="]" line="9" column="23" />
+        <mark key="^" line="9" column="23" />
+        <mark key="." line="9" column="23" />
       </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/config/remote.js" timestamp="1448170313047">
         <mark key="[" line="18" column="25" />
@@ -428,6 +440,7 @@
       <file name="$USER_HOME$/Project/laomao/laomao-frontend/src/views/index.html" timestamp="1455705624237">
         <mark key="[" line="4" column="16" />
       </file>
+      <file name="$USER_HOME$/Learning/React/react-redux-todo/src/action/action.js" timestamp="1456795610685" />
       <file name="$USER_HOME$/Project/jsshell/README.md" timestamp="1449042167065">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="33" column="32" />
