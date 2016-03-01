@@ -159,10 +159,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Learning/React/react-redux-todo/webpack.config.js" timestamp="1456797065667">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Learning/React/react-redux-todo/webpack.config.js" timestamp="1456798347932">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="38" column="11" />
       </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/server/core/index.js" timestamp="1454140512767">
         <mark key="[" line="9" column="13" />
@@ -181,11 +182,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Learning/React/react-redux-todo/src/component/Main.js" timestamp="1456797270446">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="5" column="24" />
-        <mark key="^" line="5" column="24" />
-        <mark key="." line="5" column="24" />
+      <file name="$USER_HOME$/Learning/React/react-redux-todo/src/component/Main.js" timestamp="1456799873519">
+        <mark key="[" line="22" column="33" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="7" column="15" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/module/core/filter.js" timestamp="1453827147362">
         <mark key="[" line="10" column="38" />
@@ -247,8 +248,8 @@
         <mark key="^" line="5" column="38" />
         <mark key="." line="5" column="38" />
       </file>
-      <file name="$USER_HOME$/Learning/React/react-redux-todo/src/constant/actionType.js" timestamp="1456765463777">
-        <mark key="[" line="5" column="21" />
+      <file name="$USER_HOME$/Learning/React/react-redux-todo/src/constant/actionType.js" timestamp="1456798469331">
+        <mark key="[" line="0" column="42" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
@@ -373,7 +374,7 @@
       <file name="$USER_HOME$/Learning/React/react-redux-todo/server.js" timestamp="1456764784562">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/redhome/wechat-backend/server/run.js" timestamp="1456716098052">
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/server/run.js" timestamp="1456799413875">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
@@ -456,7 +457,9 @@
       <file name="$USER_HOME$/Project/laomao/laomao-frontend/src/views/index.html" timestamp="1455705624237">
         <mark key="[" line="4" column="16" />
       </file>
-      <file name="$USER_HOME$/Learning/React/react-redux-todo/src/action/action.js" timestamp="1456795610685" />
+      <file name="$USER_HOME$/Learning/React/react-redux-todo/src/action/action.js" timestamp="1456800311730">
+        <mark key="[" line="0" column="52" />
+      </file>
       <file name="$USER_HOME$/Project/jsshell/README.md" timestamp="1449042167065">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="33" column="32" />
@@ -506,34 +509,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5pbnB1dC1ncm91cAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2xhc3MgTWFpbiBleHRlbmRzIENvbXBvbmVudCB7CiAgICByZW5kZXIoKSB7CiAgICAgICAgcmV0dXJuICgKICAgICAgICAgICAgPGRpdj4xMjM8L2Rpdj4KICAgICAgICApOwogICAgfQp9Cgo=</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y2xhc3MgTWFpbiBleHRlbmRzIENvbXBvbmVudCB7CiAgICByZW5kZXIoKSB7CiAgICAgICAgcmV0dXJuICgKICAgICAgICAgICAgPGRpdj4xMjM8L2Rpdj4KICAgICAgICApOwogICAgfQp9Cgo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMucHJvcHMuc3RhdGUK</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">UmVhY3RET00ucmVuZGVyKDxBcHAvPiwgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2FwcCcpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coc3JjKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdGFudDogYCR7c3JjfS9jb25zdGFudGAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNhY2hlOiB0cnVlLAo=</text>
+        <text encoding="base64">ICAgICAgICByb290OiBbX19kaXJuYW1lLCBzcmNdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRldnRvb2w6ICdldmFsLXNvdWNlPScK</text>
+        <text encoding="base64">ICAgICAgICBhbGlhczogewogICAgICAgICAgICBjb25zdGFudDogJy4vY29uc3RhbnQnCiAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEZJTFRFUl9JVEVNOiBudWxsCg==</text>
+        <text encoding="base64">Y2xhc3MgTWFpbiBleHRlbmRzIENvbXBvbmVudCB7CiAgICByZW5kZXIoKSB7CiAgICAgICAgcmV0dXJuICgKICAgICAgICAgICAgPGRpdj4xMjM8L2Rpdj4KICAgICAgICApOwogICAgfQp9Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEVESVRfSVRFTQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJ0ZXN0IjogImVjaG8gXCJFcnJvcjogbm8gdGVzdCBzcGVjaWZpZWRcIiAmJiBleGl0IDEiCg==</text>
+        <text encoding="base64">UmVhY3RET00ucmVuZGVyKDxBcHAvPiwgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2FwcCcpKTsK</text>
       </register>
       <register name="-" type="4">
         <text>/**</text>
