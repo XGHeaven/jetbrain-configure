@@ -182,11 +182,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Learning/React/react-redux-todo/src/component/Main.js" timestamp="1456799873519">
-        <mark key="[" line="22" column="33" />
-        <mark key="]" line="9" column="0" />
+      <file name="$USER_HOME$/Learning/React/react-redux-todo/src/component/Main.js" timestamp="1456803146737">
+        <mark key="[" line="28" column="33" />
+        <mark key="]" line="10" column="0" />
         <mark key="^" line="7" column="15" />
-        <mark key="." line="9" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/module/core/filter.js" timestamp="1453827147362">
         <mark key="[" line="10" column="38" />
@@ -312,11 +312,11 @@
       <file name="$USER_HOME$/Project/laomao/laomao-frontend/.babelrc" timestamp="1455699696241">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Learning/React/react-redux-todo/src/store/reducer.js" timestamp="1456795493028">
-        <mark key="[" line="3" column="30" />
-        <mark key="]" line="9" column="23" />
-        <mark key="^" line="9" column="23" />
-        <mark key="." line="9" column="23" />
+      <file name="$USER_HOME$/Learning/React/react-redux-todo/src/store/reducer.js" timestamp="1456802743978">
+        <mark key="[" line="3" column="41" />
+        <mark key="]" line="3" column="35" />
+        <mark key="^" line="3" column="67" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/config/remote.js" timestamp="1448170313047">
         <mark key="[" line="18" column="25" />
@@ -375,7 +375,7 @@
       <file name="$USER_HOME$/Learning/React/react-redux-todo/server.js" timestamp="1456764784562">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/redhome/wechat-backend/server/run.js" timestamp="1456799413875">
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/server/run.js" timestamp="1456803265384">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
@@ -458,11 +458,11 @@
       <file name="$USER_HOME$/Project/laomao/laomao-frontend/src/views/index.html" timestamp="1455705624237">
         <mark key="[" line="4" column="16" />
       </file>
-      <file name="$USER_HOME$/Learning/React/react-redux-todo/src/action/action.js" timestamp="1456800918206">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="5" column="17" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Learning/React/react-redux-todo/src/action/action.js" timestamp="1456802989882">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Project/jsshell/README.md" timestamp="1449042167065">
         <mark key="[" line="30" column="0" />
@@ -512,38 +512,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5pbnB1dC1ncm91cAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>{ADD_ITEM, DELETE_ITEM, DELETE_ALL}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>{ADD_ITEM, DELETE_ITEM, DELETE_ALL}</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">fSkpOwo=</text>
+      <register name="2" type="4">
+        <text>{ADD_ITEM, DELETE_ITEM, DELETE_ALL}</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coa2V5TWlycm9yKHsKICAgIGE6IG51bGwK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">fSkpOwo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coQUREX0lURU0pOwo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coa2V5TWlycm9yKHsKICAgIGE6IG51bGwK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMucHJvcHMuc3RhdGUK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coQUREX0lURU0pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdGFudDogYCR7c3JjfS9jb25zdGFudGAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMucHJvcHMuc3RhdGUK</text>
       </register>
       <register name="-" type="4">
-        <text>/**</text>
+        <text>{ADD_ITEM, DELETE_ITEM, DELETE_ALL}</text>
       </register>
     </registers>
     <search>
