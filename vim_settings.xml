@@ -14,6 +14,9 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Learning/React/react-redux-todo/.babelrc" timestamp="1456764136432">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/module/core/index.js" timestamp="1454140726192">
         <mark key="[" line="10" column="1" />
         <mark key="]" line="10" column="1" />
@@ -25,6 +28,11 @@
         <mark key="]" line="15" column="20" />
         <mark key="^" line="11" column="19" />
         <mark key="." line="15" column="20" />
+      </file>
+      <file name="$USER_HOME$/Learning/React/react-redux-todo/package.json" timestamp="1456764761200">
+        <mark key="[" line="5" column="14" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/test/server.run.js" timestamp="1454238804458">
         <mark key="[" line="19" column="13" />
@@ -167,6 +175,9 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
+      <file name="$USER_HOME$/Learning/React/react-redux-todo/src/index.html" timestamp="1456764748472">
+        <mark key="[" line="6" column="6" />
+      </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/test/module.text.unbind.js" timestamp="1454054703073">
         <mark key="[" line="95" column="6" />
         <mark key="]" line="95" column="6" />
@@ -218,6 +229,11 @@
         <mark key="]" line="5" column="38" />
         <mark key="^" line="5" column="38" />
         <mark key="." line="5" column="38" />
+      </file>
+      <file name="$USER_HOME$/Learning/React/react-redux-todo/src/constant/actionType.js" timestamp="1456765463777">
+        <mark key="[" line="5" column="21" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Project/laomao/laomao-frontend/www/preload.js" timestamp="1455699728103">
         <mark key="[" line="0" column="0" />
@@ -325,6 +341,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Learning/React/react-redux-todo/server.js" timestamp="1456764784562">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/server/run.js" timestamp="1456716098052">
         <mark key="[" line="6" column="0" />
@@ -457,34 +476,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5pbnB1dC1ncm91cAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgeGdoZWF2ZW4gb24gMi8yNy8xNi4KICovCg==</text>
+        <text encoding="base64">ICAgIEZJTFRFUl9JVEVNOiBudWxsCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgeGdoZWF2ZW4gb24gMi8yNy8xNi4KICovCg==</text>
+        <text encoding="base64">ICAgIEZJTFRFUl9JVEVNOiBudWxsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAqIENyZWF0ZWQgYnkgeGdoZWF2ZW4gb24gMi8yNy8xNi4KICovCg==</text>
+        <text encoding="base64">ICAgIEVESVRfSVRFTQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>/**</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICJ0ZXN0IjogImVjaG8gXCJFcnJvcjogbm8gdGVzdCBzcGVjaWZpZWRcIiAmJiBleGl0IDEiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHdpZHRoIDEwMCUK</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgeGdoZWF2ZW4gb24gMi8yNy8xNi4KICovCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGZzIGZyb20gJ2ZzJzsK</text>
+        <text encoding="base64">CiAqIENyZWF0ZWQgYnkgeGdoZWF2ZW4gb24gMi8yNy8xNi4KICovCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ci8vIGxvYWQgZGVwCi8vYXBwLmdldCgnL2Nzcy9ib29zdHJhcC5jc3MnLCAocmVxLCByZXMpID0+IHsKLy8gICAgZnMuY3JlYXRlUmVhZFN0cmVhbShfX2Rpcm5hbWUgKyAnLy4uL25vZGVfbW9kdWxlcy9ib290c3RyYXAvZGlzdC9jc3MvYm9vdHN0cmFwLmNzcycpLnBpcGUocmVzKTsKLy99KTsKLy9hcHAudXNlKCcvZm9udHMnLCApCg==</text>
+      <register name="6" type="4">
+        <text>/**</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb2xvciBDT0xPUl9QUklNQVJZCg==</text>
+        <text encoding="base64">ICAgIHdpZHRoIDEwMCUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZGl2Cg==</text>
+        <text encoding="base64">aW1wb3J0IGZzIGZyb20gJ2ZzJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRpdgo=</text>
+        <text encoding="base64">Ci8vIGxvYWQgZGVwCi8vYXBwLmdldCgnL2Nzcy9ib29zdHJhcC5jc3MnLCAocmVxLCByZXMpID0+IHsKLy8gICAgZnMuY3JlYXRlUmVhZFN0cmVhbShfX2Rpcm5hbWUgKyAnLy4uL25vZGVfbW9kdWxlcy9ib290c3RyYXAvZGlzdC9jc3MvYm9vdHN0cmFwLmNzcycpLnBpcGUocmVzKTsKLy99KTsKLy9hcHAudXNlKCcvZm9udHMnLCApCg==</text>
       </register>
       <register name="-" type="4">
         <text>/**</text>
