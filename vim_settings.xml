@@ -375,10 +375,11 @@
         <mark key="^" line="44" column="42" />
         <mark key="." line="63" column="4" />
       </file>
-      <file name="$USER_HOME$/Project/hexo-editor/index.js" timestamp="1457417756585">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Project/hexo-editor/index.js" timestamp="1457422731512">
+        <mark key="[" line="9" column="28" />
+        <mark key="]" line="9" column="27" />
+        <mark key="." line="9" column="27" />
+        <mark key="^" line="9" column="27" />
       </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/test/helper/module.js" timestamp="1454054612938">
         <mark key="[" line="24" column="1" />
