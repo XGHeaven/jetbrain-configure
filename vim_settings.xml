@@ -18,6 +18,16 @@
         <mark key="^" line="11" column="19" />
         <mark key="." line="15" column="20" />
       </file>
+      <file name="$USER_HOME$/Learning/React/react-redux-todo/package.json" timestamp="1456764761200">
+        <mark key="[" line="5" column="14" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Project/laomao/laomao-frontend/src/stylus/base.styl" timestamp="1456506123910">
+        <mark key="[" line="137" column="0" />
+        <mark key="]" line="137" column="0" />
+        <mark key="." line="137" column="0" />
+      </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/api/oauth/openid.js" timestamp="1453997342789">
         <mark key="[" line="28" column="1" />
         <mark key="]" line="25" column="0" />
@@ -36,11 +46,14 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="11" column="14" />
       </file>
-      <file name="$USER_HOME$/Project/redhome/wechat-backend/src/wechat.js" timestamp="1453826327150">
-        <mark key="[" line="30" column="21" />
-        <mark key="]" line="48" column="1" />
-        <mark key="." line="48" column="1" />
-        <mark key="^" line="48" column="1" />
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/src/wechat.js" timestamp="1457503161847">
+        <mark key="[" line="45" column="22" />
+      </file>
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/config/custom-environment-variables.json5" timestamp="1457502904081">
+        <mark key="[" line="36" column="5" />
+        <mark key="]" line="35" column="23" />
+        <mark key="." line="35" column="23" />
+        <mark key="^" line="35" column="23" />
       </file>
       <file name="$USER_HOME$/Project/laomao/laomao-frontend/src/stylus/variable/base.styl" timestamp="1456481140963">
         <mark key="[" line="2" column="33" />
@@ -51,17 +64,35 @@
         <mark key="." line="39" column="16" />
         <mark key="^" line="39" column="16" />
       </file>
+      <file name="$USER_HOME$/Project/laomao/laomao-frontend/src/stylus/mixin/create-caret.styl" timestamp="1456482071674">
+        <mark key="[" line="17" column="26" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/Project/laomao/laomao-frontend/src/views/index.jade" timestamp="1455871817110">
         <mark key="[" line="2" column="14" />
         <mark key="]" line="2" column="13" />
         <mark key="." line="2" column="13" />
         <mark key="^" line="2" column="13" />
       </file>
+      <file name="$USER_HOME$/Project/laomao/laomao-frontend/src/stylus/regin.styl" timestamp="1456505711153">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+      </file>
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/api/index.js" timestamp="1457503243478">
+        <mark key="[" line="15" column="42" />
+      </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/test/server.core.server.js" timestamp="1454218019792">
         <mark key="[" line="9" column="8" />
         <mark key="]" line="9" column="7" />
         <mark key="^" line="9" column="7" />
         <mark key="." line="9" column="7" />
+      </file>
+      <file name="$USER_HOME$/Project/laomao/laomao-frontend/index.js" timestamp="1455699580802">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/hexo-editor/src/main/app.js" timestamp="1457430459605">
         <mark key="[" line="6" column="28" />
@@ -84,8 +115,23 @@
         <mark key="^" line="29" column="57" />
         <mark key="." line="29" column="57" />
       </file>
+      <file name="$USER_HOME$/Project/laomao/laomao-frontend/www/preload.js" timestamp="1455699728103">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Project/hexo-editor/package.json" timestamp="1457417405883">
         <mark key="[" line="6" column="25" />
+      </file>
+      <file name="$USER_HOME$/Project/laomao/laomao-frontend/gulpfile.js" timestamp="1456506513496">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Project/laomao/laomao-frontend/lib/start.js" timestamp="1456506273008">
+        <mark key="[" line="28" column="26" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Project/laomao/laomao-frontend/src/views/partial/regin_header.jade" timestamp="1456480859122">
         <mark key="[" line="0" column="33" />
@@ -98,6 +144,11 @@
         <mark key="]" line="6" column="12" />
         <mark key="." line="6" column="12" />
         <mark key="^" line="6" column="12" />
+      </file>
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/controller/auth.js" timestamp="1457504015265">
+        <mark key="[" line="16" column="37" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Learning/React/react-redux-todo/src/store/reducer.js" timestamp="1456802743978">
         <mark key="[" line="3" column="41" />
@@ -183,8 +234,11 @@
       <file name="$USER_HOME$/Project/hexo-editor/README.md" timestamp="1457415104655">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/redhome/wechat-backend/api/token/auth.js" timestamp="1457448868371">
-        <mark key="[" line="2" column="3" />
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/api/token/auth.js" timestamp="1457503838551">
+        <mark key="[" line="12" column="19" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="18" />
       </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/module/text/subCard.js" timestamp="1453996921227">
         <mark key="[" line="25" column="14" />
@@ -201,8 +255,18 @@
         <mark key="^" line="33" column="32" />
         <mark key="." line="33" column="32" />
       </file>
-      <file name="$USER_HOME$/Project/redhome/wechat-backend/api/token/index.js" timestamp="1457448113245">
-        <mark key="[" line="2" column="3" />
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/api/token/index.js" timestamp="1457503314784">
+        <mark key="[" line="6" column="32" />
+      </file>
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/module/core/init.js" timestamp="1454143271929">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+      </file>
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/test/helper/wechat.js" timestamp="1454221124459">
+        <mark key="[" line="53" column="28" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/server/core/cache.js" timestamp="1454118410105">
         <mark key="[" line="2" column="0" />
@@ -223,7 +287,7 @@
         <mark key="^" line="40" column="106" />
       </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/package.json" timestamp="1456813043572">
-        <mark key="[" line="47" column="25" />
+        <mark key="[" line="48" column="25" />
         <mark key="]" line="2" column="18" />
         <mark key="^" line="2" column="18" />
         <mark key="." line="2" column="18" />
@@ -294,6 +358,11 @@
       <file name="$USER_HOME$/Project/redhome/wechat-backend/controller/token.js" timestamp="1457448926579">
         <mark key="[" line="2" column="3" />
       </file>
+      <file name="$USER_HOME$/Project/laomao/laomao-frontend/gulpfile.es6.js" timestamp="1456506538748">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Learning/React/react-redux-todo/webpack.config.js" timestamp="1456798347932">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
@@ -306,11 +375,21 @@
         <mark key="^" line="5" column="27" />
         <mark key="." line="5" column="27" />
       </file>
+      <file name="$USER_HOME$/Project/laomao/laomao-frontend/src/views/layout/base.jade" timestamp="1456506256495">
+        <mark key="[" line="11" column="30" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Learning/React/react-redux-todo/src/component/Main.js" timestamp="1456803146737">
         <mark key="[" line="28" column="33" />
         <mark key="]" line="10" column="0" />
         <mark key="^" line="7" column="15" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/module/core/filter.js" timestamp="1453827147362">
+        <mark key="[" line="10" column="38" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/test/module.text.unbind.js" timestamp="1454054703073">
         <mark key="[" line="95" column="6" />
@@ -324,14 +403,19 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/laomao/laomao-frontend/www/start.js" timestamp="1455699760065">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Project/redhome/redhome-wechat-import/Dockerfile" timestamp="1452780102497">
         <mark key="[" line="10" column="19" />
         <mark key="]" line="6" column="20" />
         <mark key="." line="6" column="20" />
         <mark key="^" line="6" column="20" />
       </file>
-      <file name="$USER_HOME$/Project/redhome/wechat-backend/api/common.js" timestamp="1453997252355">
-        <mark key="[" line="15" column="10" />
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/api/common.js" timestamp="1457503900964">
+        <mark key="[" line="14" column="40" />
         <mark key="]" line="5" column="38" />
         <mark key="^" line="5" column="38" />
         <mark key="." line="5" column="38" />
@@ -341,6 +425,10 @@
         <mark key="]" line="7" column="0" />
         <mark key="^" line="2" column="5" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/.env" timestamp="1457503951862">
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/module/core/run.js" timestamp="1453827366152">
         <mark key="[" line="16" column="9" />
@@ -353,6 +441,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Learning/React/react-redux-todo/src/index.js" timestamp="1456797360235">
+        <mark key="[" line="1" column="33" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/lib/leancloud.js" timestamp="1453900857113">
         <mark key="[" line="17" column="13" />
@@ -435,6 +528,11 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/server/core/server.js" timestamp="1454218176183">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
+      </file>
       <file name="$USER_HOME$/Project/laomao/laomao-frontend/src/stylus/function/createCaret.styl" timestamp="1456200036306">
         <mark key="[" line="0" column="0" />
       </file>
@@ -462,35 +560,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5pbnB1dC1ncm91cAo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc3VjY2VzczogZmFsc2UsCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc3VjY2VzczogZmFsc2UsCg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="3" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YTogewo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHNldDogewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3VjY2VzczogdHJ1ZSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coMSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1haW5XaW5kb3cub24oJ2Nsb3NlJywgKCkgPT4gewogICAgICAgIG1haW5XaW5kb3cgPSBudWxsOwogICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjb25maWcuYWRtaW4udXNlcik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNvbmZpZy5wb3J0KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coYXBwKTsK</text>
+        <text encoding="base64">ICAgICAgICBwd2Q6ICJBRE1JTl9QV0QiLAogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBQcm9taXNlCg==</text>
+        <text encoding="base64">ICAgICAgICBpZDogIkFETUlOX0lEIgo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
