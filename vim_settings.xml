@@ -288,8 +288,8 @@
         <mark key="." line="41" column="0" />
         <mark key="^" line="40" column="106" />
       </file>
-      <file name="$USER_HOME$/Project/redhome/wechat-backend/package.json" timestamp="1456813043572">
-        <mark key="[" line="48" column="25" />
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/package.json" timestamp="1457533966206">
+        <mark key="[" line="2" column="19" />
         <mark key="]" line="2" column="18" />
         <mark key="^" line="2" column="18" />
         <mark key="." line="2" column="18" />
@@ -489,8 +489,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/redhome/wechat-backend/module/text/run.js" timestamp="1457523866209">
-        <mark key="[" line="10" column="21" />
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/module/text/run.js" timestamp="1457534705404">
+        <mark key="[" line="164" column="42" />
+        <mark key="]" line="166" column="16" />
+        <mark key="^" line="164" column="44" />
+        <mark key="." line="166" column="16" />
       </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/module/text/subSchedule.js" timestamp="1456817114017">
         <mark key="[" line="5" column="6" />
@@ -572,35 +575,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5pbnB1dC1ncm91cAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWJ1ZyhkYXRhKTsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWJ1ZyhkYXRhKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlYnVnKGVycik7Cg==</text>
+      <register name="2" type="4">
+        <text>:</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKCFkYXRhLmxlbmd0aCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhyb3cgbmV3IFR5cGVFcnJvcigncmVzcG9uc2Ugbm90IGEgYXJyYXknKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWJ1ZyhkYXRhKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlYnVnKGVycik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHR5cGVvZiBkYXRhID09PSAnc3RyaW5nJykgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKCFkYXRhLmxlbmd0aCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhyb3cgbmV3IFR5cGVFcnJvcigncmVzcG9uc2Ugbm90IGEgYXJyYXknKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWJ1ZyhyZXMudGV4dCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWJ1ZyhlcnIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHR5cGVvZiBkYXRhID09PSAnc3RyaW5nJykgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsZXQgZGF0YSA9IEpTT04ucGFyc2UocmVzLnRleHQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWJ1ZyhyZXMudGV4dCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhkYXRhKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWJ1ZyhlcnIpOwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
