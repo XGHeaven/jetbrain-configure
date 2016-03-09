@@ -192,11 +192,10 @@
       <file name="$USER_HOME$/Learning/React/react-redux-todo/server.js" timestamp="1456764784562">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/redhome/wechat-backend/server/run.js" timestamp="1457524894932">
-        <mark key="[" line="120" column="19" />
-        <mark key="]" line="137" column="6" />
-        <mark key="." line="137" column="6" />
-        <mark key="^" line="137" column="6" />
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/server/run.js" timestamp="1457533693194">
+        <mark key="[" line="177" column="0" />
+        <mark key="]" line="177" column="0" />
+        <mark key="." line="177" column="0" />
       </file>
       <file name="$USER_HOME$/Project/laomao/laomao-frontend/src/css/base.styl" timestamp="1455873631596">
         <mark key="[" line="0" column="0" />
@@ -340,11 +339,11 @@
       <file name="$USER_HOME$/Project/laomao/laomao-frontend/.gitignore" timestamp="1456507133614">
         <mark key="[" line="45" column="19" />
       </file>
-      <file name="$USER_HOME$/Project/redhome/wechat-backend/lib/mail.js" timestamp="1457508690398">
-        <mark key="[" line="152" column="9" />
-        <mark key="]" line="152" column="8" />
-        <mark key="^" line="152" column="8" />
-        <mark key="." line="152" column="8" />
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/lib/mail.js" timestamp="1457531552634">
+        <mark key="[" line="148" column="19" />
+        <mark key="]" line="148" column="23" />
+        <mark key="^" line="148" column="23" />
+        <mark key="." line="148" column="23" />
       </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/test/server.schedule.js" timestamp="1456817949068">
         <mark key="[" line="2" column="3" />
@@ -429,7 +428,8 @@
         <mark key="^" line="2" column="5" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/redhome/wechat-backend/.env" timestamp="1457503951862">
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/.env" timestamp="1457533078178">
+        <mark key="[" line="11" column="1" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
@@ -522,11 +522,11 @@
         <mark key="." line="7" column="27" />
         <mark key="^" line="7" column="27" />
       </file>
-      <file name="$USER_HOME$/Project/redhome/wechat-backend/api/command.js" timestamp="1457524761609">
-        <mark key="[" line="66" column="6" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
-        <mark key="^" line="59" column="2" />
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/api/command.js" timestamp="1457532090674">
+        <mark key="[" line="73" column="27" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
+        <mark key="^" line="73" column="26" />
       </file>
       <file name="$USER_HOME$/Project/laomao/laomao-frontend/src/stylus/function/direction.styl" timestamp="1456477420702">
         <mark key="[" line="9" column="29" />
@@ -573,34 +573,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5pbnB1dC1ncm91cAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWJ1ZyhkYXRhKTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWJ1ZyhkYXRhKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1vZGVsLmZpbmQoKS5leGVjKCkudGhlbihyZXN1bHRzID0+IHsKICAgICAgICByZXN1bHRzLmZvckVhY2goaXRlbSA9PiB7CiAgICAgICAgICAgIGxldCB7c3R1ZGVudH0gPSBpdGVtOwoKICAgICAgICAgICAgcmVxdWVzdAogICAgICAgICAgICAuZ2V0KCdodHRwOi8vaGR1LnN1bm55c3BvcnQub3JnLmNuL2FwaS9zdHVkZW50L2FjaGlldmVtZW50cy8nICsgc3R1ZGVudCkKICAgICAgICAgICAgLmVuZCgoZXJyLCByZXMpID0+IHsKICAgICAgICAgICAgICAgIGxldCBkYXRhID0gcmVzLmJvZHk7CiAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhkYXRhKTsKICAgICAgICAgICAgICAgIGl0ZW0udGltZXMgPSBkYXRhLmxlbmd0aDsKICAgICAgICAgICAgICAgIGl0ZW0uc2F2ZSgpOwogICAgICAgICAgICB9KTsKICAgICAgICB9KTsKICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlYnVnKGVycik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIHJldHVybiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKCFkYXRhLmxlbmd0aCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhyb3cgbmV3IFR5cGVFcnJvcigncmVzcG9uc2Ugbm90IGEgYXJyYXknKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIChyZXEudWVzci51c2VySWQgIT09IDApIHsKICAgICAgICByZXR1cm4gcmVzLmZhaWwoKQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHR5cGVvZiBkYXRhID09PSAnc3RyaW5nJykgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIChyZXEudXNlci51c2VySWQgIT09IDApIHsKICAgICAgICByZXR1cm4gcmVzLmZhaWwobmV3IEVycm9yKCdubyBwZXJtaXNzaW9uJykpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWJ1ZyhyZXMudGV4dCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWJ1ZyhlcnIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNhY2hlLmdldCgnc2VydmVyJykuZ2V0KCdydW4nKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsZXQgZGF0YSA9IEpTT04ucGFyc2UocmVzLnRleHQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhkYXRhKTsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
