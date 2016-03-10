@@ -92,6 +92,11 @@
         <mark key="^" line="9" column="7" />
         <mark key="." line="9" column="7" />
       </file>
+      <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/views/partial/head.ejs" timestamp="1457615034496">
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="0" column="16" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Project/laomao/laomao-frontend/index.js" timestamp="1455699580802">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -336,6 +341,9 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/views/partial/header.ejs" timestamp="1457615290246">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Project/laomao/laomao-frontend/.gitignore" timestamp="1456507133614">
         <mark key="[" line="45" column="19" />
       </file>
@@ -382,6 +390,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/views/template.ejs" timestamp="1457615639926">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/Learning/React/react-redux-todo/src/component/Main.js" timestamp="1456803146737">
         <mark key="[" line="28" column="33" />
         <mark key="]" line="10" column="0" />
@@ -405,10 +418,21 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/views/partial/foot.ejs" timestamp="1457614912806">
+        <mark key="[" line="5" column="25" />
+        <mark key="]" line="5" column="1" />
+        <mark key="^" line="5" column="1" />
+        <mark key="." line="5" column="1" />
+      </file>
       <file name="$USER_HOME$/Project/laomao/laomao-frontend/www/start.js" timestamp="1455699760065">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/views/index.ejs" timestamp="1457615489146">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="9" column="6" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Project/redhome/redhome-wechat-import/Dockerfile" timestamp="1452780102497">
         <mark key="[" line="10" column="19" />
@@ -543,6 +567,9 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/.gitignore" timestamp="1457615416926">
+        <mark key="[" line="31" column="0" />
+      </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/server/core/server.js" timestamp="1454218176183">
         <mark key="[" line="80" column="0" />
         <mark key="]" line="80" column="0" />
@@ -573,37 +600,37 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5pbnB1dC1ncm91cAo=</text>
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sPgogIDxoZWFkPgogICAgPHRpdGxlPjwlPSB0aXRsZSAlPjwvdGl0bGU+CiAgICA8JS0gaW5jbHVkZSgncGFydGlhbC9oZWFkJykgJT4KICA8L2hlYWQ+CiAgPGJvZHk+CiAgICA8JS0gaW5jbHVkZSgncGFydGlhbC9mb290JykgJT4KICA8L2JvZHk+CjwvaHRtbD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9nLmluZm8oJ3NlbmQgcnVubmluZyBtZXNzYWdlIHRvICcgKyBzdHVkZW50SUQpOwo=</text>
+        <text encoding="base64">ICAgIDwlLSBpbmNsdWRlKCdwYXJ0aWFsL2hlYWRlcicpICU+Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9nLmluZm8oJ3NlbmQgcnVubmluZyBtZXNzYWdlIHRvICcgKyBzdHVkZW50SUQpOwo=</text>
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sPgogIDxoZWFkPgogICAgPHRpdGxlPjwlPSB0aXRsZSAlPjwvdGl0bGU+CiAgICA8JS0gaW5jbHVkZSgncGFydGlhbC9oZWFkJykgJT4KICA8L2hlYWQ+CiAgPGJvZHk+CiAgICA8JS0gaW5jbHVkZSgncGFydGlhbC9mb290JykgJT4KICA8L2JvZHk+CjwvaHRtbD4K</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIDxwPldlbGNvbWUgdG8gPCU9IHRpdGxlICU+PC9wPgo=</text>
       </register>
-      <register name="3" type="4">
-        <text>:</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICA8Ym9keT4KICAgIDxwPldlbGNvbWUgdG8gPCU9IHRpdGxlICU+PC9wPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWJ1ZyhkYXRhKTsK</text>
+        <text encoding="base64">ICAgIDxoMT48JT0gdGl0bGUgJT48L2gxPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlYnVnKGVycik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKCFkYXRhLmxlbmd0aCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhyb3cgbmV3IFR5cGVFcnJvcigncmVzcG9uc2Ugbm90IGEgYXJyYXknKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">PGxpbmsgcmVsPSJzdHlsZXNoZWV0IiBocmVmPSIiPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9nLmluZm8oJ3NlbmQgcnVubmluZyBtZXNzYWdlIHRvICcgKyBzdHVkZW50SUQpOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHR5cGVvZiBkYXRhID09PSAnc3RyaW5nJykgewo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWJ1ZyhyZXMudGV4dCk7Cg==</text>
+      <register name="9" type="4">
+        <text>:</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
