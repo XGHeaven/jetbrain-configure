@@ -514,6 +514,9 @@
         <mark key="^" line="5" column="38" />
         <mark key="." line="5" column="38" />
       </file>
+      <file name="$USER_HOME$/Project/json5/test/parse-cases/numbers/operator-with-hexadeciaml-exponent.txt" timestamp="1457876498563">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Learning/React/react-redux-todo/src/constant/actionType.js" timestamp="1456801091434">
         <mark key="[" line="2" column="6" />
         <mark key="]" line="7" column="0" />
