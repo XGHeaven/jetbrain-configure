@@ -139,6 +139,9 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/json5/test/parse-cases/numbers/operator-with-octal.json5" timestamp="1457874822586">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Project/json5/test/parse.js" timestamp="1457874162737">
         <mark key="[" line="93" column="45" />
       </file>
@@ -476,6 +479,9 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/json5/test/parse-cases/numbers/operator-with-float-leading-zero.json5" timestamp="1457874647577">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/views/partial/foot.ejs" timestamp="1457618855579">
         <mark key="[" line="0" column="44" />
         <mark key="]" line="5" column="1" />
@@ -613,6 +619,9 @@
         <mark key="^" line="9" column="21" />
         <mark key="." line="9" column="21" />
       </file>
+      <file name="$USER_HOME$/Project/json5/test/parse-cases/numbers/operator-with-float-leading-decimal.json5" timestamp="1457874577223">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Project/laomao/laomao-frontend/src/views/login.jade" timestamp="1456502767196">
         <mark key="[" line="14" column="27" />
         <mark key="]" line="9" column="24" />
@@ -645,6 +654,9 @@
       </file>
       <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/.gitignore" timestamp="1457618971961">
         <mark key="[" line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/Project/json5/test/parse-cases/numbers/operator-with-float-trailing-decimal-point.json5" timestamp="1457874703164">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/server/core/server.js" timestamp="1454218176183">
         <mark key="[" line="80" column="0" />
