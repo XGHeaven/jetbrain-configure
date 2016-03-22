@@ -42,8 +42,8 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="24" column="6" />
       </file>
-      <file name="$USER_HOME$/Project/hexo-editor/app/common/model/hexo.js" timestamp="1458623417959">
-        <mark key="[" line="4" column="33" />
+      <file name="$USER_HOME$/Project/hexo-editor/app/common/model/hexo.js" timestamp="1458633456764">
+        <mark key="[" line="7" column="38" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
@@ -355,8 +355,8 @@
         <mark key="^" line="33" column="32" />
         <mark key="." line="33" column="32" />
       </file>
-      <file name="$USER_HOME$/Project/hexo-editor/app/main/app.js" timestamp="1458631914017">
-        <mark key="[" line="10" column="0" />
+      <file name="$USER_HOME$/Project/hexo-editor/app/main/app.js" timestamp="1458632771099">
+        <mark key="[" line="14" column="49" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="43" />
@@ -787,34 +787,34 @@
         <text encoding="base64">ICAgIGNvbnN0IGhleG8gPSBuZXcgSGV4bygnL1VzZXJzL3hnaGVhdmVuL0Jsb2cnLCB7fSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coaGV4byk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDEpOwo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coaGV4byk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDEpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coaGV4byk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGhleG8pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGhleG8ubG9jYWxzKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGhleG8pOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGhleG8ubG9jYWxzKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CmhleG8uaW5pdCgpLnRoZW4oaGV4by5sb2FkKS50aGVuKCgpID0+IHsKICBjb25zb2xlLmxvZyhoZXhvLmxvY2Fscyk7Cn0pOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGhleG8ubG9jYWxzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgaGV4byA9IG5ldyBIZXhvKCcvVXNlcnMveGdoZWF2ZW4vQmxvZycsIHt9KTsK</text>
+        <text encoding="base64">CmhleG8uaW5pdCgpLnRoZW4oaGV4by5sb2FkKS50aGVuKCgpID0+IHsKICBjb25zb2xlLmxvZyhoZXhvLmxvY2Fscyk7Cn0pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGhleG8uaW5pdCgpLnRoZW4oaGV4by5sb2FkKS50aGVuKCgpID0+IHsKICAgICAgICBjb25zb2xlLmxvZyhoZXhvLmxvY2Fscyk7CiAgICB9KTsK</text>
+        <text encoding="base64">Y29uc3QgaGV4byA9IG5ldyBIZXhvKCcvVXNlcnMveGdoZWF2ZW4vQmxvZycsIHt9KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IEhleG8gPSByZXF1aXJlKCdoZXhvJyk7Cg==</text>
+        <text encoding="base64">ICAgIGhleG8uaW5pdCgpLnRoZW4oaGV4by5sb2FkKS50aGVuKCgpID0+IHsKICAgICAgICBjb25zb2xlLmxvZyhoZXhvLmxvY2Fscyk7CiAgICB9KTsK</text>
       </register>
       <register name="-" type="4">
         <text>e</text>
