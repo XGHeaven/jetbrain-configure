@@ -395,11 +395,11 @@
       <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/package.json" timestamp="1457879710560">
         <mark key="[" line="6" column="37" />
       </file>
-      <file name="$USER_HOME$/Project/redhome/wechat-backend/package.json" timestamp="1457533966206">
-        <mark key="[" line="2" column="19" />
-        <mark key="]" line="2" column="18" />
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/package.json" timestamp="1458972941108">
+        <mark key="[" line="86" column="1" />
+        <mark key="]" line="86" column="1" />
         <mark key="^" line="2" column="18" />
-        <mark key="." line="2" column="18" />
+        <mark key="." line="86" column="1" />
       </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/server/schedule.js" timestamp="1456817926444">
         <mark key="[" line="19" column="66" />
@@ -786,35 +786,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnN0IGhleG8gPSBuZXcgSGV4bygnL1VzZXJzL3hnaGVhdmVuL0Jsb2cnLCB7fSk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDEpOwo=</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDEpOwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coaGV4byk7Cg==</text>
-      </register>
-      <register name="3" type="2">
+      <register name="1" type="4">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDEpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coaGV4byk7Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGhleG8pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGhleG8ubG9jYWxzKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGhleG8pOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGhleG8ubG9jYWxzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CmhleG8uaW5pdCgpLnRoZW4oaGV4by5sb2FkKS50aGVuKCgpID0+IHsKICBjb25zb2xlLmxvZyhoZXhvLmxvY2Fscyk7Cn0pOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGhleG8ubG9jYWxzKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgaGV4byA9IG5ldyBIZXhvKCcvVXNlcnMveGdoZWF2ZW4vQmxvZycsIHt9KTsK</text>
+        <text encoding="base64">CmhleG8uaW5pdCgpLnRoZW4oaGV4by5sb2FkKS50aGVuKCgpID0+IHsKICBjb25zb2xlLmxvZyhoZXhvLmxvY2Fscyk7Cn0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGhleG8uaW5pdCgpLnRoZW4oaGV4by5sb2FkKS50aGVuKCgpID0+IHsKICAgICAgICBjb25zb2xlLmxvZyhoZXhvLmxvY2Fscyk7CiAgICB9KTsK</text>
+        <text encoding="base64">Y29uc3QgaGV4byA9IG5ldyBIZXhvKCcvVXNlcnMveGdoZWF2ZW4vQmxvZycsIHt9KTsK</text>
       </register>
       <register name="-" type="4">
         <text>e</text>
