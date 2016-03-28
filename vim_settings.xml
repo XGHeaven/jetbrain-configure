@@ -204,7 +204,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/views/page/order/success.ejs" timestamp="1459138670318" />
       <file name="$USER_HOME$/Project/laomao/laomao-frontend/lib/start.js" timestamp="1456506273008">
         <mark key="[" line="28" column="26" />
         <mark key="]" line="10" column="0" />
@@ -692,7 +691,7 @@
         <mark key="^" line="165" column="44" />
         <mark key="." line="167" column="16" />
       </file>
-      <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/routes/order.js" timestamp="1458291408254">
+      <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/routes/order.js" timestamp="1459139191519">
         <mark key="[" line="10" column="3" />
       </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/module/text/subSchedule.js" timestamp="1456817114017">
