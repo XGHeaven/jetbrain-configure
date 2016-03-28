@@ -50,7 +50,7 @@
       <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/routes/produce.js" timestamp="1457948808438">
         <mark key="[" line="8" column="18" />
       </file>
-      <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/public/css/page/order.styl" timestamp="1458291876330">
+      <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/public/css/page/order.styl" timestamp="1459138762704">
         <mark key="[" line="15" column="4" />
       </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/config/development.json5" timestamp="1457609976674">
@@ -204,6 +204,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/views/page/order/success.ejs" timestamp="1459138670318" />
       <file name="$USER_HOME$/Project/laomao/laomao-frontend/lib/start.js" timestamp="1456506273008">
         <mark key="[" line="28" column="26" />
         <mark key="]" line="10" column="0" />
