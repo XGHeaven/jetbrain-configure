@@ -49,8 +49,8 @@
       </file>
       <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/controller/user.js" timestamp="1459244429429">
         <mark key="[" line="11" column="2" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/routes/produce.js" timestamp="1457948808438">
         <mark key="[" line="8" column="18" />
@@ -61,8 +61,8 @@
       <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/public/css/page/order.styl" timestamp="1459138762704">
         <mark key="[" line="15" column="4" />
       </file>
-      <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/routes/user.js" timestamp="1459244466972">
-        <mark key="[" line="9" column="20" />
+      <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/routes/user.js" timestamp="1459246000217">
+        <mark key="[" line="25" column="3" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
@@ -595,6 +595,9 @@
         <mark key="." line="9" column="33" />
         <mark key="^" line="9" column="33" />
       </file>
+      <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/controller/trade.js" timestamp="1459245643043">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Project/json5/test/parse-cases/numbers/operator-with-division-zero.json5" timestamp="1457874344462">
         <mark key="[" line="0" column="0" />
       </file>
@@ -791,6 +794,9 @@
       <file name="$USER_HOME$/Project/laomao/laomao-frontend/src/stylus/function/createCaret.styl" timestamp="1456200036306">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/views/i.ejs" timestamp="1459245814824">
+        <mark key="[" line="7" column="5" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="59" column="25" filename="$USER_HOME$/Project/redhome/wechat-backend/index.js" />
@@ -816,34 +822,34 @@
         <text encoding="base64">ICAgIGNvbnN0IGhleG8gPSBuZXcgSGV4bygnL1VzZXJzL3hnaGVhdmVuL0Jsb2cnLCB7fSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cm91dGVyLnVzZSgnLycsIGZ1bmN0aW9uKHJlcSwgcmVzLCBuZXh0KSB7CiAgaWYgKHJlcS51c2VyKSB7CiAgICByZXR1cm4gcmVzLnJlZGlyZWN0KCcvJyk7CiAgfQogIG5leHQoKTsKfSk7Cgo=</text>
+        <text encoding="base64">dGhpcyBpcyBhIHRlbXBsYXRlIGZpbGUgdG8gY3JlYXRlIG5ldyBwYWdlCnlvdSBjYW4gZHVwbGljYXRlIHRoaXMgZmlsZSwgcmVwbGFjZSB0aGlzIGNvbW1lbnQKCmluIG5vcm1hbCBwYWdlLCB5b3UgaW5jbHVkZSBmb2xsb3cgcGFydGlhbAppbmNsdWRlKCdwYXJ0aWFsL2hlYWRlcicpOwoKZXhjZXB0IGxvZ2luIGFuZCByZWdpc3RlciBwYWdlCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">cm91dGVyLnVzZSgnLycsIGZ1bmN0aW9uKHJlcSwgcmVzLCBuZXh0KSB7CiAgaWYgKHJlcS51c2VyKSB7CiAgICByZXR1cm4gcmVzLnJlZGlyZWN0KCcvJyk7CiAgfQogIG5leHQoKTsKfSk7Cgo=</text>
+        <text encoding="base64">dGhpcyBpcyBhIHRlbXBsYXRlIGZpbGUgdG8gY3JlYXRlIG5ldyBwYWdlCnlvdSBjYW4gZHVwbGljYXRlIHRoaXMgZmlsZSwgcmVwbGFjZSB0aGlzIGNvbW1lbnQKCmluIG5vcm1hbCBwYWdlLCB5b3UgaW5jbHVkZSBmb2xsb3cgcGFydGlhbAppbmNsdWRlKCdwYXJ0aWFsL2hlYWRlcicpOwoKZXhjZXB0IGxvZ2luIGFuZCByZWdpc3RlciBwYWdlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygxKTsK</text>
+        <text encoding="base64">cm91dGVyLnVzZSgnLycsIGZ1bmN0aW9uKHJlcSwgcmVzLCBuZXh0KSB7CiAgaWYgKHJlcS51c2VyKSB7CiAgICByZXR1cm4gcmVzLnJlZGlyZWN0KCcvJyk7CiAgfQogIG5leHQoKTsKfSk7Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPCEtLSBUT0RPIC0tPgo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygxKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdG9rZW46IF9yZXMuYm9keS50b2tlbiwK</text>
+        <text encoding="base64">ICAgICAgPCEtLSBUT0RPIC0tPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdXNlcm5hbWU6IHVzZXJuYW1lLAogICAgICBwYXNzd29yZDogcGFzc3dvcmQK</text>
+        <text encoding="base64">ICAgICAgdG9rZW46IF9yZXMuYm9keS50b2tlbiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlcy5yZW5kZXIoJ2luZGV4JywgewogICAgICB0CiAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgdXNlcm5hbWU6IHVzZXJuYW1lLAogICAgICBwYXNzd29yZDogcGFzc3dvcmQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgbWV0aG9kID0gbWV0aG9kIHx8ICdHRVQnOwoKICByZXF1ZXN0KG1ldGhvZCwgdXJsKQo=</text>
+        <text encoding="base64">ICAgIHJlcy5yZW5kZXIoJ2luZGV4JywgewogICAgICB0CiAgICB9KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpZiAobWV0aG9kLnRvVXBwZXJDYXNlKCkgPT09ICdHRVQnKSB7CiAgICBjYiA9IGRhdGE7CiAgICBkYXRhID0gbnVsbDsKICB9Cg==</text>
+        <text encoding="base64">CiAgbWV0aG9kID0gbWV0aG9kIHx8ICdHRVQnOwoKICByZXF1ZXN0KG1ldGhvZCwgdXJsKQo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBpZiAobWV0aG9kLnRvVXBwZXJDYXNlKCkgPT09ICdHRVQnKSB7CiAgICBjYiA9IGRhdGE7CiAgICBkYXRhID0gbnVsbDsKICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
