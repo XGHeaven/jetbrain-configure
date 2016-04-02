@@ -662,6 +662,13 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/public/js/jjj.js" timestamp="1459572702901">
+        <mark key="'" line="3229" column="16" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3229" column="16" />
+        <mark key="^" line="3229" column="16" />
+        <mark key="." line="3229" column="16" />
+      </file>
       <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/public/css/main.styl" timestamp="1458285056770">
         <mark key="[" line="4" column="34" />
       </file>
@@ -842,6 +849,7 @@
       <jump line="25" column="21" filename="$USER_HOME$/Project/redhome/wechat-backend/module/core/module.js" />
       <jump line="44" column="5" filename="$USER_HOME$/Project/redhome/wechat-backend/server/schedule.js" />
       <jump line="49" column="4" filename="$USER_HOME$/Project/redhome/wechat-backend/server/schedule.js" />
+      <jump line="3229" column="16" filename="$USER_HOME$/Project/laomao/laomao-node-frontend/public/js/jjj.js" />
     </jumps>
     <registers>
       <register name="0" type="2">
