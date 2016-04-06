@@ -89,8 +89,11 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="11" column="14" />
       </file>
-      <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/public/css/component/common.styl" timestamp="1459318688453">
-        <mark key="[" line="8" column="17" />
+      <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/public/css/component/common.styl" timestamp="1459954599910">
+        <mark key="[" line="9" column="19" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="18" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/src/wechat.js" timestamp="1457503161847">
         <mark key="[" line="45" column="22" />
@@ -331,8 +334,8 @@
         <mark key="^" line="26" column="14" />
         <mark key="." line="26" column="14" />
       </file>
-      <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/views/page/index.ejs" timestamp="1457687820677">
-        <mark key="[" line="0" column="27" />
+      <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/views/page/index.ejs" timestamp="1459954701113">
+        <mark key="[" line="0" column="31" />
         <mark key="]" line="14" column="2" />
         <mark key="." line="14" column="2" />
       </file>
@@ -401,6 +404,9 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="43" />
+      </file>
+      <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/public/css/utils/clearfix.styl" timestamp="1459954524425">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/api/token/index.js" timestamp="1458737400200">
         <mark key="[" line="6" column="32" />
@@ -875,34 +881,34 @@
         <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3M9ImdyYXBlLXNoZWxmIj4KICAgICAgICAgICAgPGRpdiBjbGFzcz0iZ3JhcGUtc2VlZCI+6Iu55p6cPC9kaXY+CiAgICAgICAgICAgIDx1bCBjbGFzcz0ibmF2IG5hdi1waWxscyBuYXYtc3RhY2tlZCBncmFwZSI+CiAgICAgICAgICAgICAgPGxpIGNsYXNzPSJhY3RpdmUiPjxhIGhyZWY9IiI+aVBob25lIDZzPC9hPjwvbGk+CiAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9IiI+aVBob25lIDVzPC9hPjwvbGk+CiAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9IiI+aVBob25lIDRzPC9hPjwvbGk+CiAgICAgICAgICAgIDwvdWw+CiAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPGxpPjxhIGhyZWY9IiMiPmlQaG9uZSA1czwvYT48L2xpPgo=</text>
+        <text encoding="base64">ICBvdmVyZmxvdyBoaWRkZW4K</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgPGxpPjxhIGhyZWY9IiMiPmlQaG9uZSA1czwvYT48L2xpPgo=</text>
+        <text encoding="base64">ICBvdmVyZmxvdyBoaWRkZW4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPGxpPjxhIGhyZWY9IiMiPmlQaG9uZSA2czwvYT48L2xpPgo=</text>
+        <text encoding="base64">ICAgICAgPGxpPjxhIGhyZWY9IiMiPmlQaG9uZSA1czwvYT48L2xpPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8JT1ncmFwZXMubGVuZ3RoJT4K</text>
+        <text encoding="base64">ICAgICAgPGxpPjxhIGhyZWY9IiMiPmlQaG9uZSA2czwvYT48L2xpPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmVtYXJrOiAnJwo=</text>
+        <text encoding="base64">ICA8JT1ncmFwZXMubGVuZ3RoJT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmVtYXJrOiAnbm9uZScK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgcmVtYXJrOiAnJwo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgcmVtYXJrOiAnbm9uZScK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGV4dDogJ3Bob25lNCcsCg==</text>
+        <text encoding="base64">ICAgICAgcmVtYXJrOiAnJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdGV4dDogJ3Bob25lMycsCg==</text>
+        <text encoding="base64">ICAgICAgdGV4dDogJ3Bob25lNCcsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdGV4dDogJ3Bob25lMicsCg==</text>
+        <text encoding="base64">ICAgICAgdGV4dDogJ3Bob25lMycsCg==</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>
