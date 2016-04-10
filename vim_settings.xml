@@ -724,8 +724,10 @@
         <mark key="^" line="27" column="27" />
         <mark key="." line="28" column="29" />
       </file>
-      <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/controller/order.js" timestamp="1460252744951">
-        <mark key="[" line="6" column="17" />
+      <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/controller/order.js" timestamp="1460258650842">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/config/remote.js" timestamp="1448170313047">
         <mark key="[" line="18" column="25" />
@@ -894,34 +896,34 @@
         <text encoding="base64">ICBbJycsICcnXSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwlIHZhciBrZXksdmFsdWU7ICU+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwlIHZhciBrZXksdmFsdWU7ICU+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>claim_finish</text>
+      <register name="2" type="2">
+        <text encoding="base64">ZXhwb3J0cy5wYXkgPSBmdW5jdGlvbihyZXEsIHJlcywgbmV4dCkgewogIAp9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBsZXQgYT0gMTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwlIHZhciBrZXksdmFsdWU7ICU+Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICByZXMucmVuZGVyKCkK</text>
+      <register name="4" type="4">
+        <text>claim_finish</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICByZXMucmVuZGVyKCdvcmRlcicsIHsKICAgIGFjdGlvbjogJ2NvbmZpcm0nLAogICAgdGl0bGU6ICfloavlhpnkv53pmankv6Hmga8nCiAgfSk7Cg==</text>
+        <text encoding="base64">ICBsZXQgYT0gMTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICByZXMucmVuZGVyKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBvdmVyZmxvdyBoaWRkZW4K</text>
+        <text encoding="base64">ICByZXMucmVuZGVyKCdvcmRlcicsIHsKICAgIGFjdGlvbjogJ2NvbmZpcm0nLAogICAgdGl0bGU6ICfloavlhpnkv53pmankv6Hmga8nCiAgfSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPGxpPjxhIGhyZWY9IiMiPmlQaG9uZSA1czwvYT48L2xpPgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPGxpPjxhIGhyZWY9IiMiPmlQaG9uZSA2czwvYT48L2xpPgo=</text>
+        <text encoding="base64">ICBvdmVyZmxvdyBoaWRkZW4K</text>
       </register>
       <register name="-" type="4">
         <text>claim_finish</text>
