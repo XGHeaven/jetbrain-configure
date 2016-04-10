@@ -47,10 +47,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/controller/user.js" timestamp="1459928033436">
-        <mark key="[" line="9" column="57" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/controller/user.js" timestamp="1460261967838">
+        <mark key="[" line="47" column="35" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="44" column="35" />
       </file>
       <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/views/page/user/i.ejs" timestamp="1459318273273">
         <mark key="[" line="3" column="19" />
@@ -436,8 +437,10 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/lib/request.js" timestamp="1459228235311">
-        <mark key="[" line="17" column="16" />
+      <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/lib/request.js" timestamp="1460261412377">
+        <mark key="[" line="40" column="8" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="/fragment.js" timestamp="1459320612523">
         <mark key="[" line="0" column="0" />
@@ -510,8 +513,8 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/views/partial/header.ejs" timestamp="1459953165904">
-        <mark key="[" line="21" column="20" />
+      <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/views/partial/header.ejs" timestamp="1460262217595">
+        <mark key="[" line="9" column="21" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
@@ -790,10 +793,10 @@
         <mark key="^" line="165" column="44" />
         <mark key="." line="167" column="16" />
       </file>
-      <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/routes/order.js" timestamp="1460221164581">
-        <mark key="[" line="5" column="1" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/routes/order.js" timestamp="1460261525455">
+        <mark key="[" line="4" column="53" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/module/text/subSchedule.js" timestamp="1456817114017">
         <mark key="[" line="5" column="6" />
@@ -896,34 +899,34 @@
         <text encoding="base64">ICBbJycsICcnXSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZGVidWcuZXJyb3IoX3Jlcy5ib2R5KTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZGVidWcuZXJyb3IoX3Jlcy5ib2R5KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0cy5wYXkgPSBmdW5jdGlvbihyZXEsIHJlcywgbmV4dCkgewogIAp9Cg==</text>
+        <text encoding="base64">ICBzYXZlOiBwcmVSZXF1ZXN0KCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwlIHZhciBrZXksdmFsdWU7ICU+Cg==</text>
+        <text encoding="base64">ICBvcmRlclNhdmU6IHByZVJlcXVlc3QoJy9vcmRlci9zYXZlLmRvJywgdHJ1ZSwgZGF0YSA9PiAoe2RhdGF9KSkK</text>
       </register>
-      <register name="4" type="4">
-        <text>claim_finish</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBsZXQgYT0gMTsK</text>
+        <text encoding="base64">ZXhwb3J0cy5wYXkgPSBmdW5jdGlvbihyZXEsIHJlcywgbmV4dCkgewogIAp9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICByZXMucmVuZGVyKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwlIHZhciBrZXksdmFsdWU7ICU+Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICByZXMucmVuZGVyKCdvcmRlcicsIHsKICAgIGFjdGlvbjogJ2NvbmZpcm0nLAogICAgdGl0bGU6ICfloavlhpnkv53pmankv6Hmga8nCiAgfSk7Cg==</text>
+      <register name="7" type="4">
+        <text>claim_finish</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBsZXQgYT0gMTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBvdmVyZmxvdyBoaWRkZW4K</text>
+        <text encoding="base64">ICByZXMucmVuZGVyKCkK</text>
       </register>
       <register name="-" type="4">
         <text>claim_finish</text>
