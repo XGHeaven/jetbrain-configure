@@ -72,11 +72,6 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/redhome/nodezf/src/util/zfSQL.ts" timestamp="1459958813380" />
-      <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/lib/enumMap.js" timestamp="1460222284832">
-        <mark key="[" line="41" column="2" />
-        <mark key="]" line="41" column="11" />
-        <mark key="." line="41" column="0" />
-      </file>
       <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/views/component/grape.ejs" timestamp="1460218672516">
         <mark key="[" line="6" column="60" />
         <mark key="]" line="6" column="0" />
@@ -426,10 +421,10 @@
         <mark key="." line="71" column="0" />
         <mark key="^" line="73" column="26" />
       </file>
-      <file name="$USER_HOME$/Project/redhome/nodezf/package.json" timestamp="1460707292790">
-        <mark key="[" line="45" column="4" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
+      <file name="$USER_HOME$/Project/redhome/nodezf/package.json" timestamp="1460707761038">
+        <mark key="[" line="49" column="34" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/Learning/React/react-redux-todo/src/action/action.js" timestamp="1456802989882">
         <mark key="[" line="17" column="0" />
@@ -721,16 +716,6 @@
       <file name="$USER_HOME$/Project/laomao/laomao-frontend/src/views/layout/regin.jade" timestamp="1456506263281">
         <mark key="[" line="5" column="22" />
       </file>
-      <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/routes/product.js" timestamp="1460218559602">
-        <mark key="[" line="12" column="15" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-      </file>
-      <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/views/page/product/screen-protect.ejs" timestamp="1460252872095">
-        <mark key="[" line="10" column="52" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/README.md" timestamp="1457623745481">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="15" column="17" />
@@ -811,11 +796,6 @@
         <mark key="]" line="7" column="0" />
         <mark key="^" line="2" column="5" />
         <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/public/css/component/grape.styl" timestamp="1459931602742">
-        <mark key="[" line="23" column="8" />
-        <mark key="]" line="23" column="22" />
-        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/.env" timestamp="1457609640361">
         <mark key="[" line="14" column="1" />
@@ -928,34 +908,34 @@
         <text encoding="base64">ICAgICAgbGV0IHJlc29sdmUsIHJlamVjdCwgcHJvbWlzZTsKICAgICAgaWYgKHR5cGVvZiBjYiAhPT0gJ2Z1bmN0aW9uJykgewogICAgICAgIHByb21pc2UgPSBuZXcgUHJvbWlzZSgocmVzLCByZWopID0+IHtyZXNvbHZlID0gcmVzOyByZWplY3QgPSByZWp9KTsKICAgICAgICBjYiA9IChlcnIsIGRhdGEpID0+IHsKICAgICAgICAgIGlmIChlcnIpIHJldHVybiByZWplY3QoZXJyKTsKICAgICAgICAgIHJldHVybiByZXNvbHZlKGRhdGEpOwogICAgICAgIH0KICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAiYXZhIjogewogICAgImZpbGVzIjogWwogICAgICAiLi9idWlsZC90ZXN0cy8qKi8qLmpzIiwKICAgICAgIiEuL2J1aWxkL3Rlc3RzL2NvbnRleHQuanMiCiAgICBdLAogICAgInJlcXVpcmUiOiBbCiAgICAgICJiYWJlbC1yZWdpc3RlciIKICAgIF0KICB9Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZmlsZSk7Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAiYXZhIjogewogICAgImZpbGVzIjogWwogICAgICAiLi9idWlsZC90ZXN0cy8qKi8qLmpzIiwKICAgICAgIiEuL2J1aWxkL3Rlc3RzL2NvbnRleHQuanMiCiAgICBdLAogICAgInJlcXVpcmUiOiBbCiAgICAgICJiYWJlbC1yZWdpc3RlciIKICAgIF0KICB9Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZmlsZSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cocHJvY2Vzcy5waWQpOwpjb25zb2xlLmxvZyhhKTsK</text>
+        <text encoding="base64">ICAgICAgIiEuL2J1aWxkL3Rlc3RzL2hlbHBlcnMvKiovKiIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IGxldCBhID0gRGF0ZS5ub3coKTsK</text>
+        <text encoding="base64">ICAiYXZhIjogewogICAgImZpbGVzIjogWwogICAgICAiLi9idWlsZC90ZXN0cy8qKi8qLmpzIiwKICAgICAgIiEuL2J1aWxkL3Rlc3RzL2NvbnRleHQuanMiCiAgICBdLAogICAgInJlcXVpcmUiOiBbCiAgICAgICJiYWJlbC1yZWdpc3RlciIKICAgIF0KICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgc2VydmVyIH0gZnJvbSAnLi4vYXBwJzsK</text>
+        <text encoding="base64">Y29uc29sZS5sb2cocHJvY2Vzcy5waWQpOwpjb25zb2xlLmxvZyhhKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIiEuL2J1aWxkL3Rlc3RzL3N1cHBvcnQvKiIsCg==</text>
+        <text encoding="base64">ZXhwb3J0IGxldCBhID0gRGF0ZS5ub3coKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIi4vYnVpbGQvdGVzdHMvYXBwbGljYXRpb24uanMiLAo=</text>
+        <text encoding="base64">aW1wb3J0IHsgc2VydmVyIH0gZnJvbSAnLi4vYXBwJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJ2ZXJib3NlIjogdHJ1ZSwK</text>
+        <text encoding="base64">ICAgICAgIiEuL2J1aWxkL3Rlc3RzL3N1cHBvcnQvKiIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwaG9uZVNjcmVlbjogcHJlUmVxdWVzdCgnJykK</text>
+        <text encoding="base64">ICAgICAgIi4vYnVpbGQvdGVzdHMvYXBwbGljYXRpb24uanMiLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICByZXF1ZXN0Lm9yZGVyLnNhdmUoewogICAgCiAgfSkK</text>
+        <text encoding="base64">ICAgICJ2ZXJib3NlIjogdHJ1ZSwK</text>
       </register>
       <register name="-" type="4">
         <text>claim_finish</text>
