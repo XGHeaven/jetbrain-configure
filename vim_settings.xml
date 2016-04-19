@@ -365,11 +365,11 @@
         <mark key="^" line="27" column="27" />
         <mark key="." line="28" column="29" />
       </file>
-      <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/controller/order.js" timestamp="1461037593857">
-        <mark key="[" line="61" column="8" />
-        <mark key="]" line="47" column="23" />
-        <mark key="." line="47" column="23" />
-        <mark key="^" line="47" column="23" />
+      <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/controller/order.js" timestamp="1461050736615">
+        <mark key="[" line="62" column="8" />
+        <mark key="]" line="48" column="23" />
+        <mark key="." line="48" column="23" />
+        <mark key="^" line="48" column="23" />
       </file>
       <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/public/css/page/i.styl" timestamp="1459324945982">
         <mark key="[" line="59" column="17" />
@@ -706,8 +706,8 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/lib/request.js" timestamp="1461038126757">
-        <mark key="[" line="7" column="0" />
+      <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/lib/request.js" timestamp="1461049739601">
+        <mark key="[" line="17" column="31" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
