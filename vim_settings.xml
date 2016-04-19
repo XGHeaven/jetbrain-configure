@@ -365,7 +365,7 @@
         <mark key="^" line="27" column="27" />
         <mark key="." line="28" column="29" />
       </file>
-      <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/controller/order.js" timestamp="1461050736615">
+      <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/controller/order.js" timestamp="1461055152267">
         <mark key="[" line="62" column="8" />
         <mark key="]" line="48" column="23" />
         <mark key="." line="48" column="23" />
@@ -706,10 +706,10 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/lib/request.js" timestamp="1461049739601">
-        <mark key="[" line="17" column="31" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/lib/request.js" timestamp="1461055617828">
+        <mark key="[" line="83" column="10" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="/fragment.js" timestamp="1459320612523">
         <mark key="[" line="0" column="0" />
@@ -732,10 +732,11 @@
       <file name="$USER_HOME$/Project/laomao/laomao-frontend/src/views/layout/regin.jade" timestamp="1456506263281">
         <mark key="[" line="5" column="22" />
       </file>
-      <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/routes/product.js" timestamp="1460218559602">
-        <mark key="[" line="12" column="15" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/routes/product.js" timestamp="1461055741426">
+        <mark key="[" line="4" column="42" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="8" column="3" />
       </file>
       <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/views/page/product/screen-protect.ejs" timestamp="1460252872095">
         <mark key="[" line="10" column="52" />
@@ -946,37 +947,37 @@
         <text encoding="base64">ICAgICAgZGVidWcuZXJyb3IoZXJyIHx8IF9yZXMuYm9keSk7CiAgICAgIHJldHVybiByZXMucmVuZGVyKCdyZWdpbicsIHsKICAgICAgICB0eXBlOiAnbG9naW4nLAogICAgICAgIHN0YXR1czogY250LkxNX0xPR0lOX0ZBSUxFLAogICAgICAgIHN0YXR1c0Rlc2M6IF9yZXMuYm9keS5yZXREZXNjLAogICAgICAgIHRpdGxlOiAn6ICB54yr5L+d6ZmpJwogICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgaXNFbXB0eSA9IHJlcXVpcmUoJ2xvZGFzaCcpLmlzRW1wdHk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgaXNFbXB0eSA9IHJlcXVpcmUoJ2xvZGFzaCcpLmlzRW1wdHk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmVxLnNlc3Npb24udXNlciA9IF9yZXMuYm9keTsK</text>
+        <text encoding="base64">ICByZXMucmVuZGVyKCdwcm9kdWN0JywgewogICAgcHJvZHVjZTogJ3NjcmVlbi1wcm90ZWN0JywKICAgIHRpdGxlOiAn5omL5py656KO5bGP6ZmpJywKICAgIHNlbGVjdHM6IFt7CiAgICAgIHRpdGxlOiAn6Iu55p6cJywKICAgICAgaXRlbXM6IHsKICAgICAgICAnaWQxJzogWydpUGhvbmU2cycsIDEwXSwKICAgICAgICAnaWQyJzogWydpUGhvbmU2JywgMTBdLAogICAgICAgICdpZDMnOiBbJ2lQaG9uZTZzIFBsdXMnLCAyMF0KICAgICAgfQogICAgfSwgewogICAgICB0aXRsZTogJ+S4ieaYnycsCiAgICAgIGl0ZW1zOiB7CiAgICAgICAgJ2lkNCc6IFsnUzYnLCAyMF0sCiAgICAgICAgJ2lkNSc6IFsnUzcnLCAxNV0sCiAgICAgICAgJ2lkNic6IFsnUzgnLCAxM10KICAgICAgfQogICAgfSwgewogICAgICB0aXRsZTogJ+WNjuS4uicsCiAgICAgIGl0ZW1zOiB7CiAgICAgICAgJ2lkNyc6IFsn6I2j6ICANicsIDhdLAogICAgICAgICdpZDgnOiBbJ+iNo+iAgDcnLCA5XQogICAgICB9CiAgICB9LCB7CiAgICAgIHRpdGxlOiAn5bCP57GzJywKICAgICAgaXRlbXM6IHsKICAgICAgICAnaWQ5JzogWyflsI/nsbNOT1RFJywgMTBdLAogICAgICAgICdpZDEwJzogWyflsI/nsbM1JywgNV0KICAgICAgfQogICAgfV0KICB9KQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="3" type="4">
+        <text>var</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlcS5zZXNzaW9uLnVzZXIgPSBfcmVzLmJvZHk7CiAgICAKICAgIHJlcy5yZWRpcmVjdCgnLycpOwo=</text>
+        <text encoding="base64">ICAgICAgCiAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgcmVxdWVzdC5nZXQodXJsKS5lbmQoY2IpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpczsK</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHByb21pc2U7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmICghZGF0YSkge30K</text>
+        <text encoding="base64">Y29uc3QgaXNFbXB0eSA9IHJlcXVpcmUoJ2xvZGFzaCcpLmlzRW1wdHk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcmVxLnNlc3Npb24udXNlciA9IF9yZXMuYm9keTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBmdW5jdGlvbih0b2tlbiwgZGF0YSwgY2IpIHsKICAgICAgbGV0IHJlc29sdmUsIHJlamVjdCwgcHJvbWlzZTsKICAgICAgaWYgKHR5cGVvZiBjYiAhPT0gJ2Z1bmN0aW9uJykgewogICAgICAgIHByb21pc2UgPSBuZXcgUHJvbWlzZSgocmVzLCByZWopID0+IHtyZXNvbHZlID0gcmVzOyByZWplY3QgPSByZWp9KTsKICAgICAgICBjYiA9IChlcnIsIGRhdGEpID0+IHsKICAgICAgICAgIGlmIChlcnIpIHJldHVybiByZWplY3QoZXJyKTsKICAgICAgICAgIHJldHVybiByZXNvbHZlKGRhdGEpOwogICAgICAgIH0KICAgICAgfQoKICAgICAgcmVxdWVzdAogICAgICAucG9zdCh1cmwpCiAgICAgIC50eXBlKCdmb3JtJykKICAgICAgLnNldCh7dG9rZW59KQogICAgICAuc2VuZChkYXRhV3JhcHBlcihkYXRhKSkKICAgICAgLmVuZChjYik7CgogICAgICByZXR1cm4gcHJvbWlzZTsKICAgIH07Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>claim_finish</text>
+        <text>var</text>
       </register>
     </registers>
     <search>
@@ -1010,6 +1011,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
