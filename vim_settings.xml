@@ -365,11 +365,11 @@
         <mark key="^" line="27" column="27" />
         <mark key="." line="28" column="29" />
       </file>
-      <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/controller/order.js" timestamp="1461055152267">
-        <mark key="[" line="62" column="8" />
-        <mark key="]" line="48" column="23" />
-        <mark key="." line="48" column="23" />
-        <mark key="^" line="48" column="23" />
+      <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/controller/order.js" timestamp="1461057997910">
+        <mark key="[" line="7" column="13" />
+        <mark key="]" line="7" column="13" />
+        <mark key="^" line="7" column="13" />
+        <mark key="." line="7" column="13" />
       </file>
       <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/public/css/page/i.styl" timestamp="1459324945982">
         <mark key="[" line="59" column="17" />
@@ -706,10 +706,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/lib/request.js" timestamp="1461055617828">
-        <mark key="[" line="83" column="10" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
+      <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/lib/request.js" timestamp="1461057147293">
+        <mark key="[" line="60" column="22" />
+        <mark key="]" line="53" column="30" />
+        <mark key="." line="53" column="0" />
+        <mark key="^" line="16" column="29" />
       </file>
       <file name="/fragment.js" timestamp="1459320612523">
         <mark key="[" line="0" column="0" />
@@ -732,11 +733,10 @@
       <file name="$USER_HOME$/Project/laomao/laomao-frontend/src/views/layout/regin.jade" timestamp="1456506263281">
         <mark key="[" line="5" column="22" />
       </file>
-      <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/routes/product.js" timestamp="1461055741426">
-        <mark key="[" line="4" column="42" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-        <mark key="^" line="8" column="3" />
+      <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/routes/product.js" timestamp="1461057236181">
+        <mark key="[" line="23" column="6" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/views/page/product/screen-protect.ejs" timestamp="1460252872095">
         <mark key="[" line="10" column="52" />
@@ -944,40 +944,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZGVidWcuZXJyb3IoZXJyIHx8IF9yZXMuYm9keSk7CiAgICAgIHJldHVybiByZXMucmVuZGVyKCdyZWdpbicsIHsKICAgICAgICB0eXBlOiAnbG9naW4nLAogICAgICAgIHN0YXR1czogY250LkxNX0xPR0lOX0ZBSUxFLAogICAgICAgIHN0YXR1c0Rlc2M6IF9yZXMuYm9keS5yZXREZXNjLAogICAgICAgIHRpdGxlOiAn6ICB54yr5L+d6ZmpJwogICAgICB9KTsK</text>
+        <text encoding="base64">ICB1cmwgPSB1cmxSZXNvbHZlKGhvc3QsIHVybCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICByZXMucmVuZGVyKCdwcm9kdWN0JywgewogICAgcHJvZHVjZTogJ3NjcmVlbi1wcm90ZWN0JywKICAgIHRpdGxlOiAn5omL5py656KO5bGP6ZmpJywKICAgIHNlbGVjdHM6IFt7CiAgICAgIHRpdGxlOiAn6Iu55p6cJywKICAgICAgaXRlbXM6IHsKICAgICAgICAnaWQxJzogWydpUGhvbmU2cycsIDEwXSwKICAgICAgICAnaWQyJzogWydpUGhvbmU2JywgMTBdLAogICAgICAgICdpZDMnOiBbJ2lQaG9uZTZzIFBsdXMnLCAyMF0KICAgICAgfQogICAgfSwgewogICAgICB0aXRsZTogJ+S4ieaYnycsCiAgICAgIGl0ZW1zOiB7CiAgICAgICAgJ2lkNCc6IFsnUzYnLCAyMF0sCiAgICAgICAgJ2lkNSc6IFsnUzcnLCAxNV0sCiAgICAgICAgJ2lkNic6IFsnUzgnLCAxM10KICAgICAgfQogICAgfSwgewogICAgICB0aXRsZTogJ+WNjuS4uicsCiAgICAgIGl0ZW1zOiB7CiAgICAgICAgJ2lkNyc6IFsn6I2j6ICANicsIDhdLAogICAgICAgICdpZDgnOiBbJ+iNo+iAgDcnLCA5XQogICAgICB9CiAgICB9LCB7CiAgICAgIHRpdGxlOiAn5bCP57GzJywKICAgICAgaXRlbXM6IHsKICAgICAgICAnaWQ5JzogWyflsI/nsbNOT1RFJywgMTBdLAogICAgICAgICdpZDEwJzogWyflsI/nsbM1JywgNV0KICAgICAgfQogICAgfV0KICB9KQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="3" type="4">
-        <text>var</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCiAgICAgIAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmVxdWVzdC5nZXQodXJsKS5lbmQoY2IpOwo=</text>
+        <text encoding="base64">ICByZXMucmVuZGVyKCdvcmRlcicsIHsKICAgIGFjdGlvbjogJ2NvbmZpcm0nLAogICAgdGl0bGU6ICfloavlhpnkv53pmankv6Hmga8nLAogICAgc2VsZWN0SXRlbSwKICAgIGl0ZW1QcmljZQogIH0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHByb21pc2U7Cg==</text>
+        <text encoding="base64">ICByZXEuc2Vzc2lvbi5zZWxlY3RJdGVtID0gc2VsZWN0SXRlbTsKICByZXEuc2Vzc2lvbi5wcm9kdWN0SUQgPSBwcm9kdWN0SUQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgaXNFbXB0eSA9IHJlcXVpcmUoJ2xvZGFzaCcpLmlzRW1wdHk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aXRsZTogJ+iLueaenCcsCiAgICAgICAgaXRlbXM6IHsKICAgICAgICAgICdpZDEnOiBbJ2lQaG9uZTZzJywgMTBdLAogICAgICAgICAgJ2lkMic6IFsnaVBob25lNicsIDEwXSwKICAgICAgICAgICdpZDMnOiBbJ2lQaG9uZTZzIFBsdXMnLCAyMF0KICAgICAgICB9CiAgICAgIH0sIHsKICAgICAgICB0aXRsZTogJ+S4ieaYnycsCiAgICAgICAgaXRlbXM6IHsKICAgICAgICAgICdpZDQnOiBbJ1M2JywgMjBdLAogICAgICAgICAgJ2lkNSc6IFsnUzcnLCAxNV0sCiAgICAgICAgICAnaWQ2JzogWydTOCcsIDEzXQogICAgICAgIH0KICAgICAgfSwgewogICAgICAgIHRpdGxlOiAn5Y2O5Li6JywKICAgICAgICBpdGVtczogewogICAgICAgICAgJ2lkNyc6IFsn6I2j6ICANicsIDhdLAogICAgICAgICAgJ2lkOCc6IFsn6I2j6ICANycsIDldCiAgICAgICAgfQogICAgICB9LCB7CiAgICAgICAgdGl0bGU6ICflsI/nsbMnLAogICAgICAgIGl0ZW1zOiB7CiAgICAgICAgICAnaWQ5JzogWyflsI/nsbNOT1RFJywgMTBdLAogICAgICAgICAgJ2lkMTAnOiBbJ+Wwj+exszUnLCA1XQogICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcmVxLnNlc3Npb24udXNlciA9IF9yZXMuYm9keTsK</text>
+        <text encoding="base64">ICAgICAgc2VsZWN0czogcGFpcnNbMV0K</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="9" type="4">
+        <text>data</text>
       </register>
       <register name="-" type="4">
-        <text>var</text>
+        <text>data</text>
       </register>
     </registers>
     <search>
