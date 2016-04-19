@@ -461,8 +461,8 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="24" column="6" />
       </file>
-      <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/controller/user.js" timestamp="1460261967838">
-        <mark key="[" line="47" column="35" />
+      <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/controller/user.js" timestamp="1461035383699">
+        <mark key="[" line="53" column="21" />
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
         <mark key="^" line="44" column="35" />
@@ -692,11 +692,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/lib/request.js" timestamp="1460279456383">
-        <mark key="[" line="66" column="6" />
-        <mark key="]" line="66" column="81" />
-        <mark key="." line="66" column="81" />
-        <mark key="^" line="66" column="81" />
+      <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/lib/request.js" timestamp="1461035294172">
+        <mark key="[" line="62" column="37" />
+        <mark key="]" line="67" column="81" />
+        <mark key="." line="67" column="81" />
+        <mark key="^" line="67" column="81" />
       </file>
       <file name="/fragment.js" timestamp="1459320612523">
         <mark key="[" line="0" column="0" />
