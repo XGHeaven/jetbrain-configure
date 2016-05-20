@@ -44,7 +44,6 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="12" column="5" />
       </file>
-      <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/sessions/TOJIn9OjfP0IzZlda-ijz0uJl_C8n09j.json" timestamp="1461037563408" />
       <file name="$USER_HOME$/Project/laomao/laomao-frontend/src/stylus/variable/base.styl" timestamp="1456481140963">
         <mark key="[" line="2" column="33" />
       </file>
@@ -72,7 +71,6 @@
       <file name="$USER_HOME$/Project/json5/test/parse-cases/numbers/operator-with-all.json5" timestamp="1457790635336">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/redhome/nodezf/src/util/zfSQL.ts" timestamp="1459958813380" />
       <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/lib/enumMap.js" timestamp="1460222284832">
         <mark key="[" line="41" column="2" />
         <mark key="]" line="41" column="11" />
@@ -299,7 +297,6 @@
         <mark key="^" line="95" column="6" />
         <mark key="." line="95" column="6" />
       </file>
-      <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/sessions/xnNJAVhkDNdIWguz_wdWfFpIiJ3evzOh.json" timestamp="1460462861943" />
       <file name="$USER_HOME$/Project/redhome/nodezf/src/tests/application.ts" timestamp="1460706943796">
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
@@ -484,7 +481,6 @@
       <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/routes/produce.js" timestamp="1457948808438">
         <mark key="[" line="8" column="18" />
       </file>
-      <file name="$USER_HOME$/Project/redhome/nodezf/src/routes/courses.ts" timestamp="1460692092775" />
       <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/views/page/i/order.ejs" timestamp="1459325546114">
         <mark key="[" line="10" column="12" />
         <mark key="]" line="7" column="35" />
@@ -528,7 +524,12 @@
         <mark key="." line="39" column="16" />
         <mark key="^" line="39" column="16" />
       </file>
-      <file name="$USER_HOME$/Project/redhome/nodezf/typings/main/ambient/chai-as-promised/index.d.ts" timestamp="1460692664359" />
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/module/text/examplan.js" timestamp="1463737831182">
+        <mark key="[" line="39" column="13" />
+        <mark key="]" line="39" column="14" />
+        <mark key="." line="39" column="14" />
+        <mark key="^" line="39" column="14" />
+      </file>
       <file name="$USER_HOME$/Project/laomao/laomao-frontend/src/stylus/mixin/create-caret.styl" timestamp="1456482071674">
         <mark key="[" line="17" column="26" />
         <mark key="]" line="18" column="0" />
@@ -548,11 +549,11 @@
       <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/app.js" timestamp="1460222372962">
         <mark key="[" line="38" column="53" />
       </file>
-      <file name="$USER_HOME$/Project/redhome/wechat-backend/api/index.js" timestamp="1458737676071">
-        <mark key="[" line="38" column="38" />
-        <mark key="]" line="38" column="29" />
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/api/index.js" timestamp="1463737711815">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
         <mark key="^" line="38" column="29" />
-        <mark key="." line="38" column="29" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/views/page/order/confirm.ejs" timestamp="1460278718179">
         <mark key="[" line="43" column="32" />
@@ -632,7 +633,6 @@
         <mark key="^" line="53" column="6" />
         <mark key="." line="53" column="6" />
       </file>
-      <file name="$USER_HOME$/Project/redhome/nodezf/typings/main/ambient/chai/index.d.ts" timestamp="1460692676973" />
       <file name="$USER_HOME$/Project/redhome/wechat-backend/server/score.js" timestamp="1456818090225">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="4" />
@@ -755,7 +755,6 @@
         <mark key="^" line="15" column="17" />
         <mark key="." line="15" column="17" />
       </file>
-      <file name="$USER_HOME$/Project/redhome/nodezf/src/util/oracledb.ts" timestamp="1459959041691" />
       <file name="$USER_HOME$/Project/laomao/laomao-frontend/.gitignore" timestamp="1456507133614">
         <mark key="[" line="45" column="19" />
       </file>
@@ -803,7 +802,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/redhome/nodezf/src/app.ts" timestamp="1459957978708" />
       <file name="$USER_HOME$/Project/redhome/wechat-backend/api/analytics/index.js" timestamp="1453997357092">
         <mark key="[" line="15" column="3" />
         <mark key="]" line="13" column="0" />
@@ -890,11 +888,11 @@
         <mark key="." line="4" column="12" />
         <mark key="^" line="4" column="12" />
       </file>
-      <file name="$USER_HOME$/Project/redhome/wechat-backend/module/text/run.js" timestamp="1457972106325">
-        <mark key="[" line="156" column="49" />
-        <mark key="]" line="167" column="16" />
-        <mark key="^" line="165" column="44" />
-        <mark key="." line="167" column="16" />
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/module/text/run.js" timestamp="1463738049914">
+        <mark key="[" line="116" column="22" />
+        <mark key="]" line="116" column="21" />
+        <mark key="^" line="116" column="21" />
+        <mark key="." line="116" column="21" />
       </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/module/text/subSchedule.js" timestamp="1456817114017">
         <mark key="[" line="5" column="6" />
@@ -953,34 +951,34 @@
         <text encoding="base64">ICB1cmwgPSB1cmxSZXNvbHZlKGhvc3QsIHVybCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYOS5n+WwseaYr+ivtOaCqOWPr+S7peaPkOWJjSR7LWVuZC5kaWZmKCcyMDE2LTAxLTI1JywgJ2RheScpfeWkqeaUvuWBh+S6hlxuYCArCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYOS5n+WwseaYr+ivtOaCqOWPr+S7peaPkOWJjSR7LWVuZC5kaWZmKCcyMDE2LTAxLTI1JywgJ2RheScpfeWkqeaUvuWBh+S6hlxuYCArCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYOS5n+WwseaYr+ivtOaCqOWPr+S7peaPkOWJjSR7LWVuZC5kaWZmKCcyMDE2LTAxLTI1JywgJ2RheScpfeWkqeaUvuWBh+S6hlxuYCArCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cm91dGVyLnVzZSgnLycpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICByZXMucmVuZGVyKCdvcmRlcicsIHsKICAgIGFjdGlvbjogJ2NvbmZpcm0nLAogICAgdGl0bGU6ICfloavlhpnkv53pmankv6Hmga8nLAogICAgc2VsZWN0SXRlbSwKICAgIGl0ZW1QcmljZQogIH0pOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICByZXEuc2Vzc2lvbi5zZWxlY3RJdGVtID0gc2VsZWN0SXRlbTsKICByZXEuc2Vzc2lvbi5wcm9kdWN0SUQgPSBwcm9kdWN0SUQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aXRsZTogJ+iLueaenCcsCiAgICAgICAgaXRlbXM6IHsKICAgICAgICAgICdpZDEnOiBbJ2lQaG9uZTZzJywgMTBdLAogICAgICAgICAgJ2lkMic6IFsnaVBob25lNicsIDEwXSwKICAgICAgICAgICdpZDMnOiBbJ2lQaG9uZTZzIFBsdXMnLCAyMF0KICAgICAgICB9CiAgICAgIH0sIHsKICAgICAgICB0aXRsZTogJ+S4ieaYnycsCiAgICAgICAgaXRlbXM6IHsKICAgICAgICAgICdpZDQnOiBbJ1M2JywgMjBdLAogICAgICAgICAgJ2lkNSc6IFsnUzcnLCAxNV0sCiAgICAgICAgICAnaWQ2JzogWydTOCcsIDEzXQogICAgICAgIH0KICAgICAgfSwgewogICAgICAgIHRpdGxlOiAn5Y2O5Li6JywKICAgICAgICBpdGVtczogewogICAgICAgICAgJ2lkNyc6IFsn6I2j6ICANicsIDhdLAogICAgICAgICAgJ2lkOCc6IFsn6I2j6ICANycsIDldCiAgICAgICAgfQogICAgICB9LCB7CiAgICAgICAgdGl0bGU6ICflsI/nsbMnLAogICAgICAgIGl0ZW1zOiB7CiAgICAgICAgICAnaWQ5JzogWyflsI/nsbNOT1RFJywgMTBdLAogICAgICAgICAgJ2lkMTAnOiBbJ+Wwj+exszUnLCA1XQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgc2VsZWN0czogcGFpcnNbMV0K</text>
+        <text encoding="base64">ICByZXMucmVuZGVyKCdvcmRlcicsIHsKICAgIGFjdGlvbjogJ2NvbmZpcm0nLAogICAgdGl0bGU6ICfloavlhpnkv53pmankv6Hmga8nLAogICAgc2VsZWN0SXRlbSwKICAgIGl0ZW1QcmljZQogIH0pOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>data</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICByZXEuc2Vzc2lvbi5zZWxlY3RJdGVtID0gc2VsZWN0SXRlbTsKICByZXEuc2Vzc2lvbi5wcm9kdWN0SUQgPSBwcm9kdWN0SUQ7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>data</text>
