@@ -888,11 +888,11 @@
         <mark key="." line="4" column="12" />
         <mark key="^" line="4" column="12" />
       </file>
-      <file name="$USER_HOME$/Project/redhome/wechat-backend/module/text/run.js" timestamp="1463738049914">
-        <mark key="[" line="116" column="22" />
-        <mark key="]" line="116" column="21" />
-        <mark key="^" line="116" column="21" />
-        <mark key="." line="116" column="21" />
+      <file name="$USER_HOME$/Project/redhome/wechat-backend/module/text/run.js" timestamp="1463744145951">
+        <mark key="[" line="118" column="51" />
+        <mark key="]" line="118" column="49" />
+        <mark key="." line="118" column="49" />
+        <mark key="^" line="118" column="49" />
       </file>
       <file name="$USER_HOME$/Project/redhome/wechat-backend/module/text/subSchedule.js" timestamp="1456817114017">
         <mark key="[" line="5" column="6" />
@@ -948,37 +948,37 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICB1cmwgPSB1cmxSZXNvbHZlKGhvc3QsIHVybCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGDlubPlnYfmr4/ml6UgJHtfLmZsb29yKGxlZnRUaW1lcyAvIC1kaWZmRGF5LCAyKX0g5qyhfmA7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYOS5n+WwseaYr+ivtOaCqOWPr+S7peaPkOWJjSR7LWVuZC5kaWZmKCcyMDE2LTAxLTI1JywgJ2RheScpfeWkqeaUvuWBh+S6hlxuYCArCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGDlubPlnYfmr4/ml6UgJHtfLmZsb29yKGxlZnRUaW1lcyAvIC1kaWZmRGF5LCAyKX0g5qyhfmA7Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYOS5n+WwseaYr+ivtOaCqOWPr+S7peaPkOWJjSR7LWVuZC5kaWZmKCcyMDE2LTAxLTI1JywgJ2RheScpfeWkqeaUvuWBh+S6hlxuYCArCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGDlubPlnYfmr4/ml6UgJHtfLmZsb29yKGxlZnRUaW1lcyAvIC1kaWZmRGF5LCAyKX0g5qyhfmA7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYOS5n+WwseaYr+ivtOaCqOWPr+S7peaPkOWJjSR7LWVuZC5kaWZmKCcyMDE2LTAxLTI1JywgJ2RheScpfeWkqeaUvuWBh+S6hlxuYCArCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cm91dGVyLnVzZSgnLycpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB0aW1lc01lc3NhZ2UgKz0gYOW5s+WdhyAke18uZmxvb3IoLShkaWZmRGF5IC8gbGVmdFRpbWVzKSwgMCl9IOaXpeS4gOasoX5gOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGDlubPlnYcgJHtfLmZsb29yKC0oZGlmZkRheSAvIGxlZnRUaW1lcyksIDApfSDml6XkuIDmrKF+YDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICB0aW1lc01lc3NhZ2UgKz0gbGVmdFRpbWVzID8gOiA7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYOS5n+WwseaYr+ivtOaCqOWPr+S7peaPkOWJjSR7LWVuZC5kaWZmKCcyMDE2LTAxLTI1JywgJ2RheScpfeWkqeaUvuWBh+S6hlxuYCArCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYOS5n+WwseaYr+ivtOaCqOWPr+S7peaPkOWJjSR7LWVuZC5kaWZmKCcyMDE2LTAxLTI1JywgJ2RheScpfeWkqeaUvuWBh+S6hlxuYCArCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICByZXMucmVuZGVyKCdvcmRlcicsIHsKICAgIGFjdGlvbjogJ2NvbmZpcm0nLAogICAgdGl0bGU6ICfloavlhpnkv53pmankv6Hmga8nLAogICAgc2VsZWN0SXRlbSwKICAgIGl0ZW1QcmljZQogIH0pOwo=</text>
+        <text encoding="base64">cm91dGVyLnVzZSgnLycpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICByZXEuc2Vzc2lvbi5zZWxlY3RJdGVtID0gc2VsZWN0SXRlbTsKICByZXEuc2Vzc2lvbi5wcm9kdWN0SUQgPSBwcm9kdWN0SUQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>data</text>
