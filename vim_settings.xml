@@ -300,10 +300,6 @@
         <mark key="^" line="95" column="6" />
         <mark key="." line="95" column="6" />
       </file>
-      <file name="$USER_HOME$/Project/redhome/nodezf/src/tests/application.ts" timestamp="1460706943796">
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="$USER_HOME$/Project/laomao/laomao-node-frontend/config/development.json5" timestamp="1459227562450">
         <mark key="[" line="1" column="12" />
       </file>
@@ -816,6 +812,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/hxjg/controllers/platform.js" timestamp="1465392158673" />
       <file name="$USER_HOME$/Project/hxjg/config/test.yaml" timestamp="1465391083497">
         <mark key="[" line="0" column="0" />
       </file>
